@@ -1,9 +1,8 @@
 name: Regular Update
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 2-14/6 * * *" # Run everyday at 2am, 8am, 2pm, 8pm
+    - cron: "0 2-14/6 * * *" # Run everyday at 10am, 4pm, 10pm, 4am
 
 jobs:
   update:
@@ -29,12 +28,9 @@ jobs:
         run: scrapy crawl decrypt
 
       - name: Git commit and push
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.REPO_TOKEN }}@github.com/${{ github.repository }}.git
-          git add config.json scrapy.log nodes/*
-          git commit -m "Regular update" || echo "No changes to commit"
-          git push origin HEAD:main
-        env:
-          REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+        uses: GuillaumeFalourd/git-commit-push@v1
+        with:
+          commit_message: "Regular update"
+          files: config.json scrapy.log nodes/*
+          force: 1
+          empty: 1
