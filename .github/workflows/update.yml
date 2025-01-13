@@ -36,4 +36,4 @@ jobs:
           git commit -m "Regular update" || echo "No changes to commit"
           git push origin HEAD:main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REPO_TOKEN }}
