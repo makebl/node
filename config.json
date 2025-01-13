@@ -1,0 +1,71 @@
+{
+  "yudou66": {
+    "start_url": "https://www.yudou66.com",
+    "up_date": "2025-01-11",
+    "selector": ".entry-header a",
+    "pattern": "http://yy.yudou66.top/[^<>\\r\\n]+",
+    "password": "1234",
+    "yt_idx": 0,
+    "script": "multiDecrypt(arguments[0]);"
+  },
+  "blues": {
+    "start_url": "https://blues2022.blogspot.com",
+    "up_date": "2024-09-01",
+    "selector": ".entry-header a",
+    "pattern": "https://clv.lshan.eu.org/[^<>\\r\\n]+",
+    "password": "1234",
+    "yt_idx": 0,
+    "script": "multiDecrypt(arguments[0]);"
+  },
+  "kkzui": {
+    "start_url": "https://kkzui.com/jd",
+    "up_date": "2024-09-01",
+    "selector": ".item-body a",
+    "pattern": "https://tt.vg/[^<>\\r\\n]+",
+    "password": "1234",
+    "textbox": [
+      "name",
+      "secret-key"
+    ],
+    "button": [
+      "tag name",
+      "button"
+    ]
+  },
+  "clashmeta": {
+    "start_url": "https://clash-meta.github.io/",
+    "up_date": "2025-03-01",
+    "selector": "a[class='xcblog-blog-url']",
+    "pattern": "https://clash-meta.github.io/uploads/[^<>\\r\\n]+"
+  },
+  "ndnode": {
+    "start_url": "https://www.naidounode.com",
+    "up_date": "2024-12-02",
+    "selector": ".post_def_title a",
+    "pattern": "https://www.naidounode.com/node/[^<>\\r\\n]+"
+  },
+  "nodev2ray": {
+    "start_url": "https://nodev2ray.com",
+    "up_date": "2025-01-13",
+    "selector": ".item-heading.pb-2 a",
+    "pattern": "https://nodev2ray.com/uploads/[^<>\\r\\n]+"
+  },
+  "nodefree": {
+    "start_url": "https://nodefree.org",
+    "up_date": "2025-01-13",
+    "selector": "a[rel='bookmark']",
+    "pattern": "https://nodefree.githubrowcontent.com/[^<>\\r\\n]+"
+  },
+  "v2rayshare": {
+    "start_url": "https://v2rayshare.com",
+    "up_date": "2025-01-12",
+    "selector": ".list-body a",
+    "pattern": "https://v2rayshare.githubrowcontent.com/[^<>\\r\\n]+"
+  },
+  "wenode": {
+    "start_url": "https://wenode.cc/freenode",
+    "up_date": "2025-01-03",
+    "selector": ".post_def_title a",
+    "pattern": "https://wenode.githubrowcontent.com/[^<>\\r\\n]+"
+  }
+}

@@ -1,0 +1,12 @@
+# requirements.txt
+
+fake_useragent
+numpy<2.0
+opencv-python
+opencv-python-headless
+albumentations
+paddleocr
+paddlepaddle
+pytubefix
+scrapy
+selenium
