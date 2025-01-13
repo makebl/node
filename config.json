@@ -34,7 +34,7 @@
   },
   "clashmeta": {
     "start_url": "https://clash-meta.github.io/",
-    "up_date": "2025-03-01",
+    "up_date": "2025-01-13",
     "selector": "a[class='xcblog-blog-url']",
     "pattern": "https://clash-meta.github.io/uploads/[^<>\\r\\n]+"
   },
@@ -46,19 +46,19 @@
   },
   "nodev2ray": {
     "start_url": "https://nodev2ray.com",
-    "up_date": "2025-01-13",
+    "up_date": "2025-01-11",
     "selector": ".item-heading.pb-2 a",
     "pattern": "https://nodev2ray.com/uploads/[^<>\\r\\n]+"
   },
   "nodefree": {
     "start_url": "https://nodefree.org",
-    "up_date": "2025-01-13",
+    "up_date": "2025-01-11",
     "selector": "a[rel='bookmark']",
     "pattern": "https://nodefree.githubrowcontent.com/[^<>\\r\\n]+"
   },
   "v2rayshare": {
     "start_url": "https://v2rayshare.com",
-    "up_date": "2025-01-12",
+    "up_date": "2025-01-10",
     "selector": ".list-body a",
     "pattern": "https://v2rayshare.githubrowcontent.com/[^<>\\r\\n]+"
   },
