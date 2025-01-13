@@ -29,6 +29,15 @@ jobs:
       - name: Run DecryptScraper
         run: scrapy crawl decrypt -s FORCE=True
 
+      - name: Configure git user
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Set up git remote with token
+        run: |
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
       - name: Git commit and push
         uses: GuillaumeFalourd/git-commit-push@v1
         with:
