@@ -1,4 +1,4 @@
-2025-02-05 02:42:29 [scrapy.middleware] INFO: Enabled downloader middlewares:
+2025-02-05 08:15:57 [scrapy.middleware] INFO: Enabled downloader middlewares:
 ['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
  'scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
  'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
@@ -13,146 +13,2299 @@
  'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
  'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
  'scrapy.downloadermiddlewares.stats.DownloaderStats']
-2025-02-05 02:42:29 [scrapy.middleware] INFO: Enabled spider middlewares:
+2025-02-05 08:15:57 [scrapy.middleware] INFO: Enabled spider middlewares:
 ['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
  'scrapy.spidermiddlewares.referer.RefererMiddleware',
  'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
  'scrapy.spidermiddlewares.depth.DepthMiddleware']
-2025-02-05 02:42:29 [scrapy.middleware] INFO: Enabled item pipelines:
+2025-02-05 08:15:57 [scrapy.middleware] INFO: Enabled item pipelines:
 ['NodeScrapy.pipelines.Pipeline']
-2025-02-05 02:42:29 [scrapy.core.engine] INFO: Spider opened
-2025-02-05 02:42:29 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
-2025-02-05 02:42:29 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
-2025-02-05 02:42:29 [simple] INFO: clashmeta start
-2025-02-05 02:42:29 [simple] INFO: ndnode start
-2025-02-05 02:42:29 [simple] INFO: nodev2ray start
-2025-02-05 02:42:29 [simple] INFO: nodefree start
-2025-02-05 02:42:29 [simple] INFO: v2rayshare start
-2025-02-05 02:42:29 [simple] INFO: wenode start
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-2-5-free-ssr-node.htm on 2025-02-05
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-2-4-free-subscribe-node.htm on 2025-02-04
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-2-3-free-clash-subscribe.htm on 2025-02-03
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-2-2-free-ssr-subscribe.htm on 2025-02-02
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-2-1-free-clash.htm on 2025-02-01
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-31-free-v2ray-subscribe.htm on 2025-01-31
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-30-free-shadowrocket-node.htm on 2025-01-30
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-29-free-node-subscribe.htm on 2025-01-29
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-28-v2ray-node-daily-updates.htm on 2025-01-28
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-27-v2ray-node.htm on 2025-01-27
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-26-free-ssr-subscribe.htm on 2025-01-26
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-25-v2ray-windows.htm on 2025-01-25
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-24-free-v2ray.htm on 2025-01-24
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-23-v2ray-node-daily-updates.htm on 2025-01-23
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-21-free-shadowrocket-node.htm on 2025-01-21
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-20-free-ssr-subscribe.htm on 2025-01-20
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-19-free-clash.htm on 2025-01-19
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-18-free-subscribe-node.htm on 2025-01-18
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-17-free-clash.htm on 2025-01-17
-2025-02-05 02:42:29 [simple] INFO: nodev2ray found /free-node/2025-1-16-v2ray-node.htm on 2025-01-16
-2025-02-05 02:42:29 [simple] INFO: nodev2ray needs update, accessing https://nodev2ray.com/free-node/2025-2-5-free-ssr-node.htm
-2025-02-05 02:42:29 [simple] INFO: nodev2ray needs update, accessing https://nodev2ray.com/free-node/2025-2-4-free-subscribe-node.htm
-2025-02-05 02:42:29 [simple] INFO: nodev2ray needs update, accessing https://nodev2ray.com/free-node/2025-2-3-free-clash-subscribe.htm
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-2-2-free-node-subscribe.htm on 2025-02-02
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-2-2-free-node-subscribe.htm on 2025-02-02
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-2-1-today-clash-meta-node.htm on 2025-02-01
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-2-1-today-clash-meta-node.htm on 2025-02-01
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-31-clash-meta-node-share.htm on 2025-01-31
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-31-clash-meta-node-share.htm on 2025-01-31
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-30-node-share.htm on 2025-01-30
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-30-node-share.htm on 2025-01-30
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-29-free-subscribe-node.htm on 2025-01-29
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-29-free-subscribe-node.htm on 2025-01-29
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-28-free-subscribe-node.htm on 2025-01-28
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-28-free-subscribe-node.htm on 2025-01-28
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-27-today-clash-meta-node.htm on 2025-01-27
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-27-today-clash-meta-node.htm on 2025-01-27
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-26-node-share-links.htm on 2025-01-26
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-26-node-share-links.htm on 2025-01-26
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-25-today-clash-meta-node.htm on 2025-01-25
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-25-today-clash-meta-node.htm on 2025-01-25
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-24-node-share-links.htm on 2025-01-24
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-24-node-share-links.htm on 2025-01-24
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-23-free-subscribe-node.htm on 2025-01-23
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-23-free-subscribe-node.htm on 2025-01-23
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-22-clash-meta-github.htm on 2025-01-22
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-22-clash-meta-github.htm on 2025-01-22
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-21-clash-meta-node-share.htm on 2025-01-21
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-21-clash-meta-node-share.htm on 2025-01-21
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-20-free-node-subscribe.htm on 2025-01-20
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-20-free-node-subscribe.htm on 2025-01-20
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-19-node-share.htm on 2025-01-19
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-19-node-share.htm on 2025-01-19
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-18-clash-meta-node-share.htm on 2025-01-18
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-18-clash-meta-node-share.htm on 2025-01-18
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-17-free-clash-meta-node.htm on 2025-01-17
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-17-free-clash-meta-node.htm on 2025-01-17
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-16-clash-meta-node-share.htm on 2025-01-16
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-16-clash-meta-node-share.htm on 2025-01-16
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-15-node-share.htm on 2025-01-15
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-15-node-share.htm on 2025-01-15
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-14-free-high-speed-nodes.htm on 2025-01-14
-2025-02-05 02:42:29 [simple] INFO: clashmeta found /free-nodes/2025-1-14-free-high-speed-nodes.htm on 2025-01-14
-2025-02-05 02:42:29 [simple] INFO: clashmeta is up to date, exiting
-2025-02-05 02:42:29 [simple] INFO: clashmeta is up to date, exiting
-2025-02-05 02:42:29 [simple] INFO: clashmeta is up to date, exiting
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2645.html on 2025-02-04
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2646.html on 2025-02-03
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2647.html on 2025-02-02
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2648.html on 2025-02-01
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2649.html on 2025-01-31
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2650.html on 2025-01-30
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2651.html on 2025-01-29
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2652.html on 2025-01-28
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2653.html on 2025-01-27
-2025-02-05 02:42:30 [simple] INFO: wenode found https://wenode.cc/a/2654.html on 2025-01-26
-2025-02-05 02:42:30 [simple] INFO: wenode is up to date, exiting
-2025-02-05 02:42:30 [simple] INFO: wenode is up to date, exiting
-2025-02-05 02:42:30 [simple] INFO: wenode is up to date, exiting
-2025-02-05 02:42:30 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/20240708/ff27133addd15aff872376749b5dcb9d.webp" /, skipping
-2025-02-05 02:42:30 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/20240708/7fa073b3923df00f22aa45c3499bab9f.webp" /, skipping
-2025-02-05 02:42:30 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/20240708/fd42cd580e85a568595ae47d1acc6566.webp" /, skipping
-2025-02-05 02:42:30 [scrapy.core.engine] INFO: Closing spider (finished)
-2025-02-05 02:42:30 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
-{'downloader/request_bytes': 5529,
- 'downloader/request_count': 17,
- 'downloader/request_method_count/GET': 17,
- 'downloader/response_bytes': 78740,
- 'downloader/response_count': 17,
- 'downloader/response_status_count/200': 14,
+2025-02-05 08:15:57 [scrapy.core.engine] INFO: Spider opened
+2025-02-05 08:15:57 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-02-05 08:15:57 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2025-02-05 08:15:57 [simple] INFO: clashmeta start
+2025-02-05 08:15:57 [simple] INFO: ndnode start
+2025-02-05 08:15:57 [simple] INFO: nodev2ray start
+2025-02-05 08:15:57 [simple] INFO: nodefree start
+2025-02-05 08:15:57 [simple] INFO: v2rayshare start
+2025-02-05 08:15:57 [simple] INFO: wenode start
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-5-clash-meta-node-github.htm on 2025-02-05
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-5-clash-meta-node-github.htm on 2025-02-05
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-4-free-high-speed-nodes.htm on 2025-02-04
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-4-free-high-speed-nodes.htm on 2025-02-04
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-3-clash-meta-github.htm on 2025-02-03
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-3-clash-meta-github.htm on 2025-02-03
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-2-free-node-subscribe.htm on 2025-02-02
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-2-free-node-subscribe.htm on 2025-02-02
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-1-today-clash-meta-node.htm on 2025-02-01
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-2-1-today-clash-meta-node.htm on 2025-02-01
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-31-clash-meta-node-share.htm on 2025-01-31
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-31-clash-meta-node-share.htm on 2025-01-31
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-30-node-share.htm on 2025-01-30
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-30-node-share.htm on 2025-01-30
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-29-free-subscribe-node.htm on 2025-01-29
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-29-free-subscribe-node.htm on 2025-01-29
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-28-free-subscribe-node.htm on 2025-01-28
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-28-free-subscribe-node.htm on 2025-01-28
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-27-today-clash-meta-node.htm on 2025-01-27
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-27-today-clash-meta-node.htm on 2025-01-27
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-26-node-share-links.htm on 2025-01-26
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-26-node-share-links.htm on 2025-01-26
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-25-today-clash-meta-node.htm on 2025-01-25
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-25-today-clash-meta-node.htm on 2025-01-25
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-24-node-share-links.htm on 2025-01-24
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-24-node-share-links.htm on 2025-01-24
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-23-free-subscribe-node.htm on 2025-01-23
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-23-free-subscribe-node.htm on 2025-01-23
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-22-clash-meta-github.htm on 2025-01-22
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-22-clash-meta-github.htm on 2025-01-22
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-21-clash-meta-node-share.htm on 2025-01-21
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-21-clash-meta-node-share.htm on 2025-01-21
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-20-free-node-subscribe.htm on 2025-01-20
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-20-free-node-subscribe.htm on 2025-01-20
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-19-node-share.htm on 2025-01-19
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-19-node-share.htm on 2025-01-19
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-18-clash-meta-node-share.htm on 2025-01-18
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-18-clash-meta-node-share.htm on 2025-01-18
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-17-free-clash-meta-node.htm on 2025-01-17
+2025-02-05 08:15:58 [simple] INFO: clashmeta found /free-nodes/2025-1-17-free-clash-meta-node.htm on 2025-01-17
+2025-02-05 08:15:58 [simple] INFO: clashmeta needs update, accessing https://clash-meta.github.io/free-nodes/2025-2-5-clash-meta-node-github.htm
+2025-02-05 08:15:58 [simple] INFO: clashmeta needs update, accessing https://clash-meta.github.io/free-nodes/2025-2-5-clash-meta-node-github.htm
+2025-02-05 08:15:58 [simple] INFO: clashmeta needs update, accessing https://clash-meta.github.io/free-nodes/2025-2-4-free-high-speed-nodes.htm
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2644.html on 2025-02-05
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2645.html on 2025-02-04
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2646.html on 2025-02-03
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2647.html on 2025-02-02
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2648.html on 2025-02-01
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2649.html on 2025-01-31
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2650.html on 2025-01-30
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2651.html on 2025-01-29
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2652.html on 2025-01-28
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.cc/a/2653.html on 2025-01-27
+2025-02-05 08:15:58 [simple] INFO: wenode needs update, accessing https://wenode.cc/a/2644.html
+2025-02-05 08:15:58 [simple] INFO: wenode is up to date, exiting
+2025-02-05 08:15:58 [simple] INFO: wenode is up to date, exiting
+2025-02-05 08:15:58 [simple] WARNING: clashmeta could not parse https://clash-meta.github.io/uploads/20240803-1/b4cd7b128d2e85e70ca9c65d90e53db8.webp" /, skipping
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/0-20250205.yaml
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/1-20250205.yaml
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/2-20250205.yaml
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/3-20250205.yaml
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/4-20250205.yaml
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/1-20250205.txt
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/2-20250205.txt
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/3-20250205.txt
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/4-20250205.txt
+2025-02-05 08:15:58 [simple] WARNING: clashmeta could not parse https://clash-meta.github.io/uploads/2025/02/20250205.json, skipping
+2025-02-05 08:15:58 [simple] WARNING: clashmeta could not parse https://clash-meta.github.io/uploads/20240803-1/bfcdf10effd469aee9c87fb232c2fc76.webp" /, skipping
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/2-20250204.yaml
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/3-20250204.yaml
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/1-20250204.txt
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/2-20250204.txt
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/3-20250204.txt
+2025-02-05 08:15:58 [simple] INFO: clashmeta found https://clash-meta.github.io/uploads/2025/02/4-20250204.txt
+2025-02-05 08:15:58 [simple] WARNING: clashmeta could not parse https://clash-meta.github.io/uploads/2025/02/20250204.json, skipping
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.githubrowcontent.com/2025/02/20250205.txt
+2025-02-05 08:15:58 [simple] INFO: wenode found https://wenode.githubrowcontent.com/2025/02/20250205.yaml
+2025-02-05 08:15:58 [simple] INFO: Pipeline processing clashmeta.txt
+2025-02-05 08:15:58 [simple] INFO: Pipeline processed clashmeta.txt
+2025-02-05 08:15:58 [simple] INFO: Pipeline processing clashmeta.txt
+2025-02-05 08:15:58 [simple] INFO: Pipeline processed clashmeta.txt
+2025-02-05 08:15:58 [simple] INFO: Pipeline processing clashmeta.yaml
+2025-02-05 08:15:58 [scrapy.core.scraper] ERROR: Error processing {'body': '<pre style="word-wrap: break-word; white-space: pre-wrap;">port: '
+         '7890\n'
+         'socks-port: 7891\n'
+         'allow-lan: true\n'
+         'mode: Rule\n'
+         'log-level: info\n'
+         'external-controller: 127.0.0.1:9090\n'
+         'proxies:\n'
+         '  - {name: 🇬🇧 高性价比机场:https://kfyun.uk, server: 127.0.0.1, port: 443, '
+         'type: ss, cipher: aes-128-gcm, password: 6601fb90e9b3, tfo: false}\n'
+         '  - {name: 0|🇯🇵1 |  6.0MB/s, server: 13.231.129.236, port: 443, '
+         'type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}\n'
+         '  - {name: "🇯🇵 0,13|🇯🇵 日本2|@ripaojiedian", server: '
+         'ywtwepcnwlou.xn--fiqs8sjz2bull.com, port: 60717, type: vmess, uuid: '
+         'a51ed25d-d878-472b-8a5c-4f2f53ddc2ac, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 0|🇺🇸2 |  3.5MB/s, server: gy.58n.net, port: 28678, type: '
+         'trojan, password: 333d4654-cab4-3726-9c6c-06a9c27ae680, sni: '
+         'z143.hongkongnode.top, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 0|🇨🇦1 |  1.3MB/s, server: 47.129.255.141, port: 443, '
+         'type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}\n'
+         '  - {name: 0|🇺🇸3 |  5.8MB/s, server: 54.71.17.51, port: 443, type: '
+         'ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}\n'
+         '  - {name: 0|🇬🇧1 |  4.0MB/s, server: gyl.58n.net, port: 20309, type: '
+         'trojan, password: 333d4654-cab4-3726-9c6c-06a9c27ae680, sni: '
+         'z309.hongkongnode.top, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 0|🇬🇧2 |  1.9MB/s, server: gy.58n.net, port: 11215, type: '
+         'trojan, password: 333d4654-cab4-3726-9c6c-06a9c27ae680, sni: '
+         'z268.hongkongnode.top, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 0|🇯🇵2 |  3.0MB/s, server: 54.250.238.74, port: 443, type: '
+         'ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}\n'
+         '  - {name: 0|🇺🇸4 |  1.2MB/s, server: gy.58n.net, port: 20279, type: '
+         'trojan, password: 333d4654-cab4-3726-9c6c-06a9c27ae680, sni: '
+         'z279.hongkongnode.top, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 0|🇯🇵3 |  2.5MB/s, server: 54.168.25.210, port: 443, type: '
+         'ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}\n'
+         '  - {name: 0|🇯🇵4 |  11.9MB/s, server: 52.68.124.236, port: 443, '
+         'type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}\n'
+         '  - {name: 0|🇺🇸6 |  1.7MB/s, server: us-ashburn-virginia.keenvpn.me, '
+         'port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         '2afbc97400ca71c8f3306f9843a6e1c2, tfo: false}\n'
+         '  - {name: 0|🇺🇸7 |  1.3MB/s, server: gy.58n.net, port: 20303, type: '
+         'trojan, password: 333d4654-cab4-3726-9c6c-06a9c27ae680, sni: '
+         'z303.hongkongnode.top, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 0|🇯🇵5 |  3.1MB/s, server: 3.112.149.177, port: 443, type: '
+         'ss, cipher: aes-256-cfb, password: amazonskr05, tfo: false}\n'
+         '  - {name: 0|🇺🇸8 |  4.5MB/s, server: 16.mamamajd.site, port: 23616, '
+         'type: vmess, uuid: c55cfbfc-b936-353a-b2b7-1366b86c5fde, alterId: 2, '
+         'cipher: auto, tls: false, skip-cert-verify: true, network: ws, '
+         'ws-opts: {path: /, headers: {Host: 16.mamamajd.site}}, tfo: false}\n'
+         '  - {name: 0|🇺🇸9 |  4.9MB/s, server: 5.mamamajd.site, port: 23605, '
+         'type: vmess, uuid: c55cfbfc-b936-353a-b2b7-1366b86c5fde, alterId: 2, '
+         'cipher: auto, tls: false, skip-cert-verify: true, network: ws, '
+         'ws-opts: {path: /, headers: {Host: 5.mamamajd.site}}, tfo: false}\n'
+         '  - {name: 0|🇯🇵6 |  1.8MB/s, server: gy.58n.net, port: 20300, type: '
+         'trojan, password: 333d4654-cab4-3726-9c6c-06a9c27ae680, sni: '
+         'z300.hongkongnode.top, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 0|🇯🇵7 |  3.4MB/s, server: gy.58n.net, port: 20140, type: '
+         'trojan, password: 333d4654-cab4-3726-9c6c-06a9c27ae680, sni: '
+         'z140.hongkongnode.top, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 0|🌀1- |  5.6MB/s, server: south.sf0jm.xyz, port: 49207, '
+         'type: ss, cipher: aes-128-gcm, password: '
+         '10ed4b04-fd54-4f14-82e4-2d0c073e8e51, tfo: false}\n'
+         '  - {name: 0|🇩🇪1 |  4.3MB/s, server: south.sf0jm.xyz, port: 49228, '
+         'type: ss, cipher: aes-128-gcm, password: '
+         'c069172e-e3e3-4395-a3de-74b6c09324b5, tfo: false}\n'
+         '  - {name: 0|🇺🇦1 |  2.3MB/s, server: south.sf0jm.xyz, port: 49222, '
+         'type: ss, cipher: aes-128-gcm, password: '
+         '46e6eeca-65a9-4f54-a7f2-ae1bf5f6a0ab, tfo: false}\n'
+         '  - {name: 0|🇹🇼1 |  1.7MB/s, server: gy.58n.net, port: 33323, type: '
+         'trojan, password: 333d4654-cab4-3726-9c6c-06a9c27ae680, sni: '
+         'z261.hongkongnode.top, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇭🇰 13|🇭🇰 香港|@ripaojiedian, server: '
+         'mdss-hk.04z3susick.download, port: 12008, type: ss, cipher: '
+         'aes-128-gcm, password: cbf3d234-6d24-47ec-a9cb-2c2692c5dcf1, tfo: '
+         'false}\n'
+         '  - {name: 🇭🇰 13|🇭🇰 香港2|@ripaojiedian, server: 50028.baidu-cdn.top, '
+         'port: 50028, type: vmess, uuid: '
+         'cdb49a9b-6e23-4d90-b2a8-5c158b437cf2, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇭🇰 13|🇭🇰 香港3|@ripaojiedian, server: 120.232.81.50, port: '
+         '16088, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD, tfo: '
+         'false}\n'
+         '  - {name: 🇭🇰 13|🇭🇰 香港5|@ripaojiedian, server: 120.232.153.63, port: '
+         '40565, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
+         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: '
+         'false}\n'
+         '  - {name: 🇯🇵 13|🇯🇵 日本|@ripaojiedian, server: 183.214.197.27, port: '
+         '34102, type: ss, cipher: chacha20-ietf-poly1305, password: '
+         '8cbf6069-29f0-49d5-965f-ac752174de83, tfo: false}\n'
+         '  - {name: 🇸🇬 13|🇸🇬 新加坡|@ripaojiedian, server: '
+         'mdss-sg.04z3susick.download, port: 12021, type: ss, cipher: '
+         'aes-128-gcm, password: cbf3d234-6d24-47ec-a9cb-2c2692c5dcf1, tfo: '
+         'false}\n'
+         '  - {name: 🇸🇬 13|🇸🇬 新加坡2|@ripaojiedian, server: 50012.baidu-cdn.top, '
+         'port: 50012, type: vmess, uuid: '
+         'cdb49a9b-6e23-4d90-b2a8-5c158b437cf2, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇸🇬 13|🇸🇬 新加坡3|@ripaojiedian, server: '
+         'pudvkjvvgdol.xn--fiqs8sjz2bull.com, port: 50792, type: vmess, uuid: '
+         'a51ed25d-d878-472b-8a5c-4f2f53ddc2ac, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇺🇸 13|🇺🇸 美国|@ripaojiedian, server: '
+         'bzryjncvbwng.xn--fiqs8sjz2bull.com, port: 23763, type: vmess, uuid: '
+         'a51ed25d-d878-472b-8a5c-4f2f53ddc2ac, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian, server: 54.255.198.143, '
+         'port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, '
+         'tfo: false}\n'
+         '  - {name: 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian, server: 43.207.112.160, '
+         'port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, '
+         'tfo: false}\n'
+         '  - {name: 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian, server: 52.192.75.193, port: '
+         '443, type: ss, cipher: aes-256-cfb, password: amazonskr05, tfo: '
+         'false}\n'
+         '  - {name: 🇭🇰 14|香港|@ripaojiedian, server: '
+         'mdss-hk.04z3susick.download, port: 12008, type: ss, cipher: ss, '
+         'password: '
+         '//YWVzLTEyOC1nY206Y2JmM2QyMzQtNmQyNC00N2VjLWE5Y2ItMmMyNjkyYzVkY2Yx, '
+         'tfo: false}\n'
+         '  - {name: 🇭🇰 14|香港2|@ripaojiedian, server: 50028.baidu-cdn.top, '
+         'port: 50028, type: vmess, uuid: '
+         'cdb49a9b-6e23-4d90-b2a8-5c158b437cf2, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇭🇰 14|香港3|@ripaojiedian, server: 120.232.81.50, port: '
+         '16088, type: ss, cipher: ss, password: '
+         '//YWVzLTI1Ni1jZmI6aEdrUTY5MTV0RA, tfo: false}\n'
+         '  - {name: 🇭🇰 14|香港5|@ripaojiedian, server: 120.232.153.63, port: '
+         '40565, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, '
+         'alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, tfo: '
+         'false}\n'
+         '  - {name: 🇯🇵 14|日本|@ripaojiedian, server: 183.214.197.27, port: '
+         '34102, type: ss, cipher: ss, password: '
+         '//Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4Y2JmNjA2OS0yOWYwLTQ5ZDUtOTY1Zi1hYzc1MjE3NGRlODM, '
+         'tfo: false}\n'
+         '  - {name: 🇯🇵 14|日本2|@ripaojiedian, server: '
+         'ywtwepcnwlou.xn--fiqs8sjz2bull.com, port: 60717, type: vmess, uuid: '
+         'a51ed25d-d878-472b-8a5c-4f2f53ddc2ac, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇸🇬 14|新加坡|@ripaojiedian, server: '
+         'mdss-sg.04z3susick.download, port: 12021, type: ss, cipher: ss, '
+         'password: '
+         '//YWVzLTEyOC1nY206Y2JmM2QyMzQtNmQyNC00N2VjLWE5Y2ItMmMyNjkyYzVkY2Yx, '
+         'tfo: false}\n'
+         '  - {name: 🇸🇬 14|新加坡2|@ripaojiedian, server: 50012.baidu-cdn.top, '
+         'port: 50012, type: vmess, uuid: '
+         'cdb49a9b-6e23-4d90-b2a8-5c158b437cf2, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇸🇬 14|新加坡3|@ripaojiedian, server: '
+         'pudvkjvvgdol.xn--fiqs8sjz2bull.com, port: 50792, type: vmess, uuid: '
+         'a51ed25d-d878-472b-8a5c-4f2f53ddc2ac, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇺🇸 14|美国|@ripaojiedian, server: '
+         'bzryjncvbwng.xn--fiqs8sjz2bull.com, port: 23763, type: vmess, uuid: '
+         'a51ed25d-d878-472b-8a5c-4f2f53ddc2ac, alterId: 0, cipher: auto, tls: '
+         'false, skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 🇰🇷 14|韩国特殊|@ripaojiedian, server: 54.255.198.143, port: '
+         '443, type: ss, cipher: ss, password: '
+         '//YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}\n'
+         '  - {name: 🇯🇵 14|日本特殊|@ripaojiedian, server: 43.207.112.160, port: '
+         '443, type: ss, cipher: ss, password: '
+         '//YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}\n'
+         '  - {name: 🇸🇬 14|狮城特殊|@ripaojiedian, server: 52.192.75.193, port: '
+         '443, type: ss, cipher: ss, password: '
+         '//YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU, tfo: false}\n'
+         '  - {name: 15|speednode_0048, server: 219.135.231.205, port: 21019, '
+         'type: trojan, password: 20a84ebf-9341-4f5f-8245-3975e2fdeee5, '
+         'skip-cert-verify: true, tfo: false}\n'
+         '  - {name: 16|d*********g.com_2, server: 42.236.73.72, port: 443, '
+         'type: vmess, uuid: 044f0177-0675-4dcf-89d4-804b6788e518, alterId: 0, '
+         'cipher: auto, tls: true, skip-cert-verify: true, servername: '
+         'www.zitian.cn, tfo: false}\n'
+         '  - {name: 16|d*********g.com_3, server: 42.236.73.72, port: 443, '
+         'type: trojan, password: fuck, sni: www.zitian.cn, skip-cert-verify: '
+         'true, tfo: false}\n'
+         'proxy-groups:\n'
+         '  - name: Proxies\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - HK\n'
+         '      - SG\n'
+         '      - JP\n'
+         '      - US\n'
+         '      - TW\n'
+         '      - 🇬🇧 高性价比机场:https://kfyun.uk\n'
+         '      - 0|🇯🇵1 |  6.0MB/s\n'
+         '      - 🇯🇵 0,13|🇯🇵 日本2|@ripaojiedian\n'
+         '      - 0|🇺🇸2 |  3.5MB/s\n'
+         '      - 0|🇨🇦1 |  1.3MB/s\n'
+         '      - 0|🇺🇸3 |  5.8MB/s\n'
+         '      - 0|🇬🇧1 |  4.0MB/s\n'
+         '      - 0|🇬🇧2 |  1.9MB/s\n'
+         '      - 0|🇯🇵2 |  3.0MB/s\n'
+         '      - 0|🇺🇸4 |  1.2MB/s\n'
+         '      - 0|🇯🇵3 |  2.5MB/s\n'
+         '      - 0|🇯🇵4 |  11.9MB/s\n'
+         '      - 0|🇺🇸6 |  1.7MB/s\n'
+         '      - 0|🇺🇸7 |  1.3MB/s\n'
+         '      - 0|🇯🇵5 |  3.1MB/s\n'
+         '      - 0|🇺🇸8 |  4.5MB/s\n'
+         '      - 0|🇺🇸9 |  4.9MB/s\n'
+         '      - 0|🇯🇵6 |  1.8MB/s\n'
+         '      - 0|🇯🇵7 |  3.4MB/s\n'
+         '      - 0|🌀1- |  5.6MB/s\n'
+         '      - 0|🇩🇪1 |  4.3MB/s\n'
+         '      - 0|🇺🇦1 |  2.3MB/s\n'
+         '      - 0|🇹🇼1 |  1.7MB/s\n'
+         '      - 🇭🇰 13|🇭🇰 香港|@ripaojiedian\n'
+         '      - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian\n'
+         '      - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian\n'
+         '      - 🇭🇰 13|🇭🇰 香港5|@ripaojiedian\n'
+         '      - 🇯🇵 13|🇯🇵 日本|@ripaojiedian\n'
+         '      - 🇸🇬 13|🇸🇬 新加坡|@ripaojiedian\n'
+         '      - 🇸🇬 13|🇸🇬 新加坡2|@ripaojiedian\n'
+         '      - 🇸🇬 13|🇸🇬 新加坡3|@ripaojiedian\n'
+         '      - 🇺🇸 13|🇺🇸 美国|@ripaojiedian\n'
+         '      - 🇰🇷 13|🇰🇷 韩国特殊|@ripaojiedian\n'
+         '      - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian\n'
+         '      - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian\n'
+         '      - 🇭🇰 14|香港|@ripaojiedian\n'
+         '      - 🇭🇰 14|香港2|@ripaojiedian\n'
+         '      - 🇭🇰 14|香港3|@ripaojiedian\n'
+         '      - 🇭🇰 14|香港5|@ripaojiedian\n'
+         '      - 🇯🇵 14|日本|@ripaojiedian\n'
+         '      - 🇯🇵 14|日本2|@ripaojiedian\n'
+         '      - 🇸🇬 14|新加坡|@ripaojiedian\n'
+         '      - 🇸🇬 14|新加坡2|@ripaojiedian\n'
+         '      - 🇸🇬 14|新加坡3|@ripaojiedian\n'
+         '      - 🇺🇸 14|美国|@ripaojiedian\n'
+         '      - 🇰🇷 14|韩国特殊|@ripaojiedian\n'
+         '      - 🇯🇵 14|日本特殊|@ripaojiedian\n'
+         '      - 🇸🇬 14|狮城特殊|@ripaojiedian\n'
+         '      - 15|speednode_0048\n'
+         '      - 16|d*********g.com_2\n'
+         '      - 16|d*********g.com_3\n'
+         '  - name: Apple\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - DIRECT\n'
+         '      - Proxies\n'
+         '  - name: MicroSoft\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - DIRECT\n'
+         '      - Proxies\n'
+         '  - name: Telegram\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - Proxies\n'
+         '      - HK\n'
+         '      - SG\n'
+         '  - name: Streaming\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - Proxies\n'
+         '      - HK\n'
+         '      - SG\n'
+         '      - JP\n'
+         '      - US\n'
+         '      - TW\n'
+         '  - name: Netease\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - DIRECT\n'
+         '      - Proxies\n'
+         '  - name: StreamingSE\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - DIRECT\n'
+         '      - Proxies\n'
+         '      - HK\n'
+         '      - TW\n'
+         '  - name: HK\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - 🇭🇰 13|🇭🇰 香港|@ripaojiedian\n'
+         '      - 🇭🇰 13|🇭🇰 香港2|@ripaojiedian\n'
+         '      - 🇭🇰 13|🇭🇰 香港3|@ripaojiedian\n'
+         '      - 🇭🇰 13|🇭🇰 香港5|@ripaojiedian\n'
+         '      - 🇭🇰 14|香港|@ripaojiedian\n'
+         '      - 🇭🇰 14|香港2|@ripaojiedian\n'
+         '      - 🇭🇰 14|香港3|@ripaojiedian\n'
+         '      - 🇭🇰 14|香港5|@ripaojiedian\n'
+         '  - name: SG\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - 🇸🇬 13|🇸🇬 新加坡|@ripaojiedian\n'
+         '      - 🇸🇬 13|🇸🇬 新加坡2|@ripaojiedian\n'
+         '      - 🇸🇬 13|🇸🇬 新加坡3|@ripaojiedian\n'
+         '      - 🇸🇬 13|🇸🇬 狮城特殊|@ripaojiedian\n'
+         '      - 🇸🇬 14|新加坡|@ripaojiedian\n'
+         '      - 🇸🇬 14|新加坡2|@ripaojiedian\n'
+         '      - 🇸🇬 14|新加坡3|@ripaojiedian\n'
+         '      - 🇸🇬 14|狮城特殊|@ripaojiedian\n'
+         '  - name: TW\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - DIRECT\n'
+         '  - name: JP\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - 🇯🇵 0,13|🇯🇵 日本2|@ripaojiedian\n'
+         '      - 🇯🇵 13|🇯🇵 日本|@ripaojiedian\n'
+         '      - 🇯🇵 13|🇯🇵 日本特殊|@ripaojiedian\n'
+         '      - 🇯🇵 14|日本|@ripaojiedian\n'
+         '      - 🇯🇵 14|日本2|@ripaojiedian\n'
+         '      - 🇯🇵 14|日本特殊|@ripaojiedian\n'
+         '  - name: US\n'
+         '    type: select\n'
+         '    proxies:\n'
+         '      - 🇺🇸 13|🇺🇸 美国|@ripaojiedian\n'
+         '      - 🇺🇸 14|美国|@ripaojiedian\n'
+         'rules:\n'
+         '  - DOMAIN-SUFFIX,17gouwuba.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,186078.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,189zj.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,285680.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,3721zh.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,4336wang.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,51chumoping.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,51mld.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,51mypc.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,58mingri.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,58mingtian.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,5vl58stm.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,6d63d3.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,7gg.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,91veg.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,9s6q.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,adsame.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,akuai.top,REJECT\n'
+         '  - DOMAIN-SUFFIX,atplay.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,baiwanchuangyi.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,beerto.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,beilamusi.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,benshiw.net,REJECT\n'
+         '  - DOMAIN-SUFFIX,bianxianmao.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,bkyhq.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,bryonypie.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,cishantao.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,cszlks.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,cudaojia.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,dafapromo.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,daitdai.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,dsaeerf.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,dugesheying.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,dv8c1t.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,echatu.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,erdoscs.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,fan-yong.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,feih.com.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,fjlqqc.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,fkku194.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,freedrive.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,gclick.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,goufanli100.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,goupaoerdai.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,gouwubang.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,gscxs.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,gzxnlk.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,haoshengtoys.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,hbssjd.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,hyunke.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,ichaosheng.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,ishop789.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,jdkic.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,jiubuhua.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,jsncke.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,junkucm.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,jwg365.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,kawo77.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,kualianyingxiao.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,kumihua.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,ltheanine.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,lvehaisen.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,maipinshangmao.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,minisplat.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,mkitgfs.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,mlnbike.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,mobjump.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,nbkbgd.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,newapi.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,pinzhitmall.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,poppyta.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,qianchuanghr.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,qichexin.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,qinchugudao.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,quanliyouxi.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,qutaobi.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,ry51w.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sg536.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifubo.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifuce.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifuda.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifufu.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifuge.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifugu.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifuhe.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifuhu.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifuji.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,sifuka.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,smgru.net,REJECT\n'
+         '  - DOMAIN-SUFFIX,taoggou.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,tcxshop.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,tjqonline.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,topitme.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,tt3sm4.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,tuia.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,tuipenguin.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,tuitiger.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,urlaw.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,urlet.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,websd8.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,wsgblw.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,wx16999.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,xchmai.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,xiaohuau.xyz,REJECT\n'
+         '  - DOMAIN-SUFFIX,ygyzx.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,yinmong.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,yitaopt.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,yjqiqi.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,yukhj.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,zhaozecheng.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,zhenxinet.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,zlne800.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,zmlled.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,zunmi.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,zzd6.com,REJECT\n'
+         '  - IP-CIDR,39.107.15.115/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,47.89.59.182/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,103.49.209.27/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,123.56.152.96/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,61.160.200.223/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,61.160.200.242/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,61.160.200.252/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,61.174.50.214/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,111.175.220.163/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,111.175.220.164/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,122.229.8.47/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,122.229.29.89/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,124.232.160.178/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,175.6.223.15/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,183.59.53.237/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,218.93.127.37/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,221.228.17.152/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,221.231.6.79/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,222.186.61.91/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,222.186.61.95/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,222.186.61.96/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,222.186.61.97/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,106.75.231.48/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,119.4.249.166/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,220.196.52.141/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,221.6.4.148/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,114.247.28.96/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,120.240.95.37/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,221.179.131.72/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,221.179.140.145/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,115.182.16.79/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,118.144.88.126/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,118.144.88.215/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,118.144.88.216/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,120.76.189.132/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,124.14.21.147/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,124.14.21.151/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,180.166.52.24/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,211.161.101.106/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,211.161.101.110/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,220.115.251.25/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,222.73.156.235/32,REJECT,no-resolve\n'
+         '  - IP-CIDR,114.119.160.0/21,REJECT,no-resolve\n'
+         '  - DOMAIN-SUFFIX,kuaizip.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,mackeeper.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,zryydi.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,flash.cn,REJECT\n'
+         '  - DOMAIN,geo2.adobe.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,4009997658.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,abbyychina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,bartender.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,betterzip.net,REJECT\n'
+         '  - DOMAIN-SUFFIX,betterzipcn.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,beyondcompare.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,bingdianhuanyuan.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,chemdraw.com.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,cjmakeding.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,cjmkt.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,codesoftchina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,coreldrawchina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,crossoverchina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,dongmansoft.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,earmasterchina.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,easyrecoverychina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,ediuschina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,flstudiochina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,formysql.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,guitarpro.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,huishenghuiying.com.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,hypersnap.net,REJECT\n'
+         '  - DOMAIN-SUFFIX,iconworkshop.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,imindmap.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,jihehuaban.com.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,keyshot.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,kingdeecn.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,logoshejishi.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,luping.net.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,mairuan.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,mairuan.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,mairuan.com.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,mairuan.net,REJECT\n'
+         '  - DOMAIN-SUFFIX,mairuanwang.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,makeding.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,mathtype.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,mindmanager.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,mindmanager.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,mindmapper.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,mycleanmymac.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,nicelabel.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,ntfsformac.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,ntfsformac.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,overturechina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,passwordrecovery.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,pdfexpert.cc,REJECT\n'
+         '  - DOMAIN-SUFFIX,photozoomchina.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,shankejingling.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,ultraiso.net,REJECT\n'
+         '  - DOMAIN-SUFFIX,vegaschina.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,xitongqingli.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,xmindchina.net,REJECT\n'
+         '  - DOMAIN-SUFFIX,xshellcn.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,yihuifu.cn,REJECT\n'
+         '  - DOMAIN-SUFFIX,yuanchengxiezuo.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,zbrushcn.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,zhzzx.com,REJECT\n'
+         '  - DOMAIN-SUFFIX,1password.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,vultr.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mb3admin.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,rixcloud.io,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tempestapp.io,DIRECT\n'
+         '  - DOMAIN-SUFFIX,baidu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,baidu-int.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,erebor.douban.com,DIRECT\n'
+         '  - DOMAIN,mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt1-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt2-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt3-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt4-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt5-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt6-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt7-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt8-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt9-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,captive.apple.com,DIRECT\n'
+         '  - DOMAIN,time-ios.apple.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,gateway.push-apple.com.akadns.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,push.apple.com,DIRECT\n'
+         '  - DOMAIN-KEYWORD,github,Proxies\n'
+         '  - DOMAIN-SUFFIX,github.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,github.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,githubapp.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,githubassets.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,githubusercontent.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,home-intl.console.aliyun.com,Proxies\n'
+         '  - DOMAIN,ip.skk.moe,Proxies\n'
+         '  - DOMAIN,ip.sb,Proxies\n'
+         '  - DOMAIN-SUFFIX,googleapis.cn,Proxies\n'
+         '  - DOMAIN-SUFFIX,maying.co,Proxies\n'
+         '  - DOMAIN-SUFFIX,flowercloud.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,socloud.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,ytoo.asia,Proxies\n'
+         '  - DOMAIN-SUFFIX,ytoo.co.uk,Proxies\n'
+         '  - DOMAIN-SUFFIX,aaplimg.com,Apple\n'
+         '  - DOMAIN-SUFFIX,apple.co,Apple\n'
+         '  - DOMAIN-SUFFIX,apple.com,Apple\n'
+         '  - DOMAIN-SUFFIX,apple.com.cn,Apple\n'
+         '  - DOMAIN-SUFFIX,apple-cloudkit.com,Apple\n'
+         '  - DOMAIN-SUFFIX,appstore.com,Apple\n'
+         '  - DOMAIN-SUFFIX,cdn-apple.com,Apple\n'
+         '  - DOMAIN-SUFFIX,icloud.com,Apple\n'
+         '  - DOMAIN-SUFFIX,icloud.com.cn,Apple\n'
+         '  - DOMAIN-SUFFIX,icloud-content.com,Apple\n'
+         '  - DOMAIN-SUFFIX,me.com,Apple\n'
+         '  - DOMAIN-SUFFIX,mzstatic.com,Apple\n'
+         '  - DOMAIN-KEYWORD,apple.com.akadns.net,Apple\n'
+         '  - DOMAIN-KEYWORD,icloud.com.akadns.net,Apple\n'
+         '  - IP-CIDR,17.0.0.0/8,Apple,no-resolve\n'
+         '  - IP-CIDR,63.92.224.0/19,Apple,no-resolve\n'
+         '  - IP-CIDR,65.199.22.0/23,Apple,no-resolve\n'
+         '  - IP-CIDR,139.178.128.0/18,Apple,no-resolve\n'
+         '  - IP-CIDR,144.178.0.0/19,Apple,no-resolve\n'
+         '  - IP-CIDR,192.35.50.0/24,Apple,no-resolve\n'
+         '  - IP-CIDR,198.183.17.0/24,Apple,no-resolve\n'
+         '  - IP-CIDR,205.180.175.0/24,Apple,no-resolve\n'
+         '  - DOMAIN-SUFFIX,apps.apple.com,Apple\n'
+         '  - DOMAIN-SUFFIX,itunes.apple.com,Apple\n'
+         '  - DOMAIN-SUFFIX,itunes-apple.com.akadns.net,Apple\n'
+         '  - DOMAIN-SUFFIX,mzstatic.com,Apple\n'
+         '  - DOMAIN,ppq.apple.com,Apple\n'
+         '  - DOMAIN,appstoreconnect.apple.com,Apple\n'
+         '  - DOMAIN,iosapps-ssl.itunes.apple.com,Apple\n'
+         '  - DOMAIN,itcmobile.itunes.apple.com,Apple\n'
+         '  - DOMAIN,beta.apple.com,Apple\n'
+         '  - DOMAIN,testflight.apple.com,Apple\n'
+         '  - DOMAIN,gg.apple.com,Apple\n'
+         '  - DOMAIN,gnf-mdn.apple.com,Apple\n'
+         '  - DOMAIN,gnf-mr.apple.com,Apple\n'
+         '  - DOMAIN,gs.apple.com,Apple\n'
+         '  - DOMAIN,ig.apple.com,Apple\n'
+         '  - DOMAIN,skl.apple.com,Apple\n'
+         '  - DOMAIN,swcdn.apple.com,Apple\n'
+         '  - DOMAIN,swdist.apple.com,Apple\n'
+         '  - DOMAIN,swdownload.apple.com,Apple\n'
+         '  - DOMAIN,swpost.apple.com,Apple\n'
+         '  - DOMAIN,swscan.apple.com,Apple\n'
+         '  - DOMAIN,oscdn.apple.com,Apple\n'
+         '  - DOMAIN,osrecovery.apple.com,Apple\n'
+         '  - DOMAIN,appldnld.apple.com,Apple\n'
+         '  - DOMAIN,ns.itunes.apple.com,Apple\n'
+         '  - DOMAIN,mesu.apple.com,Apple\n'
+         '  - DOMAIN,updates.cdn-apple.com,Apple\n'
+         '  - DOMAIN,updates-http.cdn-apple.com,Apple\n'
+         '  - DOMAIN,xp.apple.com,Apple\n'
+         '  - PROCESS-NAME,Music,Apple\n'
+         '  - DOMAIN-SUFFIX,music.apple.com,Apple\n'
+         '  - DOMAIN,aod.itunes.apple.com,Apple\n'
+         '  - DOMAIN,audio.itunes.apple.com,Apple\n'
+         '  - DOMAIN,audio-ssl.itunes.apple.com,Apple\n'
+         '  - DOMAIN,mvod.itunes.apple.com,Apple\n'
+         '  - DOMAIN,streamingaudio.itunes.apple.com,Apple\n'
+         '  - DOMAIN-SUFFIX,blobstore.apple.com,Apple\n'
+         '  - DOMAIN-KEYWORD,1drv,MicroSoft\n'
+         '  - DOMAIN-KEYWORD,microsoft,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,aadrm.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,acompli.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,acompli.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,aka.ms,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,akadns.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,aspnetcdn.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,assets-yammer.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,azure.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,azure.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,azureedge.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,azurerms.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,bing.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,cloudapp.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,cloudappsecurity.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,edgesuite.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,gfx.ms,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,hotmail.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,live.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,live.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,lync.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msappproxy.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msauth.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msauthimages.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msecnd.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msedge.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msft.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msftauth.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msftauthimages.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msftidentity.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msidentity.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msn.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msocdn.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,msocsp.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,mstea.ms,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,o365weve.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,oaspapps.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,office.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,office.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,office365.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,officeppe.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,omniroot.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,onedrive.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,onenote.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,onenote.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,onestore.ms,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,outlook.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,outlookmobile.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,phonefactor.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,public-trust.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,sfbassets.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,sfx.ms,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,sharepoint.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,sharepointonline.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,skype.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,skypeassets.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,skypeforbusiness.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,staffhub.ms,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,svc.ms,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,sway-cdn.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,sway-extensions.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,sway.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,trafficmanager.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,uservoice.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,virtualearth.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,visualstudio.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,windows-ppe.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,windows.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,windows.net,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,windowsazure.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,windowsupdate.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,wunderlist.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,yammer.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,yammerusercontent.com,MicroSoft\n'
+         '  - DOMAIN-SUFFIX,163yun.com,Netease\n'
+         '  - DOMAIN-SUFFIX,music.163.com,Netease\n'
+         '  - DOMAIN-SUFFIX,music.126.net,Netease\n'
+         '  - DOMAIN-SUFFIX,api.iplay.163.com,Netease\n'
+         '  - DOMAIN-SUFFIX,apm.music.163.com,Netease\n'
+         '  - DOMAIN-SUFFIX,apm3.music.163.com,Netease\n'
+         '  - DOMAIN-SUFFIX,interface.music.163.com,Netease\n'
+         '  - DOMAIN-SUFFIX,interface3.music.163.com,Netease\n'
+         '  - DOMAIN-SUFFIX,mam.netease.com,Netease\n'
+         '  - DOMAIN-SUFFIX,hz.netease.com,Netease\n'
+         '  - IP-CIDR,39.105.63.80/32,Netease\n'
+         '  - IP-CIDR,45.254.48.1/32,Netease\n'
+         '  - IP-CIDR,47.100.127.239/32,Netease\n'
+         '  - IP-CIDR,59.111.21.14/31,Netease\n'
+         '  - IP-CIDR,59.111.179.214/32,Netease\n'
+         '  - IP-CIDR,59.111.181.38/32,Netease\n'
+         '  - IP-CIDR,59.111.181.60/32,Netease\n'
+         '  - IP-CIDR,59.111.160.195/32,Netease\n'
+         '  - IP-CIDR,59.111.160.197/32,Netease\n'
+         '  - IP-CIDR,59.111.181.35/32,Netease\n'
+         '  - IP-CIDR,59.111.238.29/32,Netease\n'
+         '  - IP-CIDR,101.71.154.241/32,Netease\n'
+         '  - IP-CIDR,103.126.92.132/32,Netease\n'
+         '  - IP-CIDR,103.126.92.133/32,Netease\n'
+         '  - IP-CIDR,112.13.119.17/32,Netease\n'
+         '  - IP-CIDR,112.13.122.1/32,Netease\n'
+         '  - IP-CIDR,115.236.118.33/32,Netease\n'
+         '  - IP-CIDR,115.236.121.1/32,Netease\n'
+         '  - IP-CIDR,118.24.63.156/32,Netease\n'
+         '  - IP-CIDR,193.112.159.225/32,Netease\n'
+         '  - IP-CIDR,223.252.199.66/32,Netease\n'
+         '  - IP-CIDR,223.252.199.67/32,Netease\n'
+         '  - DOMAIN-SUFFIX,t.me,Telegram\n'
+         '  - DOMAIN-SUFFIX,tdesktop.com,Telegram\n'
+         '  - DOMAIN-SUFFIX,telegra.ph,Telegram\n'
+         '  - DOMAIN-SUFFIX,telegram.me,Telegram\n'
+         '  - DOMAIN-SUFFIX,telegram.org,Telegram\n'
+         '  - DOMAIN-SUFFIX,telesco.pe,Telegram\n'
+         '  - IP-CIDR,91.108.4.0/22,Telegram,no-resolve\n'
+         '  - IP-CIDR,91.108.8.0/22,Telegram,no-resolve\n'
+         '  - IP-CIDR,91.108.12.0/22,Telegram,no-resolve\n'
+         '  - IP-CIDR,91.108.16.0/22,Telegram,no-resolve\n'
+         '  - IP-CIDR,91.108.20.0/22,Telegram,no-resolve\n'
+         '  - IP-CIDR,91.108.56.0/22,Telegram,no-resolve\n'
+         '  - IP-CIDR,149.154.160.0/20,Telegram,no-resolve\n'
+         '  - IP-CIDR6,2001:b28:f23d::/48,Telegram,no-resolve\n'
+         '  - IP-CIDR6,2001:b28:f23f::/48,Telegram,no-resolve\n'
+         '  - IP-CIDR6,2001:67c:4e8::/48,Telegram,no-resolve\n'
+         '  - DOMAIN-SUFFIX,himalaya.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,deezer.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,dzcdn.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,joox.com,Streaming\n'
+         '  - DOMAIN-KEYWORD,jooxweb-api,Streaming\n'
+         '  - DOMAIN-SUFFIX,kkbox.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,kkbox.com.tw,Streaming\n'
+         '  - DOMAIN-SUFFIX,kfs.io,Streaming\n'
+         '  - DOMAIN-SUFFIX,pandora.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,p-cdn.us,Streaming\n'
+         '  - DOMAIN-SUFFIX,sndcdn.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,soundcloud.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,pscdn.co,Streaming\n'
+         '  - DOMAIN-SUFFIX,scdn.co,Streaming\n'
+         '  - DOMAIN-SUFFIX,spotify.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,spoti.fi,Streaming\n'
+         '  - DOMAIN-KEYWORD,spotify.com,Streaming\n'
+         '  - DOMAIN-KEYWORD,-spotify-com,Streaming\n'
+         '  - DOMAIN-SUFFIX,tidal.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,abema.io,Streaming\n'
+         '  - DOMAIN-SUFFIX,abema.tv,Streaming\n'
+         '  - DOMAIN-SUFFIX,ameba.jp,Streaming\n'
+         '  - DOMAIN-SUFFIX,hayabusa.io,Streaming\n'
+         '  - DOMAIN-KEYWORD,abematv.akamaized.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,c4assets.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,channel4.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,aiv-cdn.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,aiv-delivery.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,amazonvideo.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,primevideo.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,media-amazon.com,Streaming\n'
+         '  - DOMAIN,atv-ps.amazon.com,Streaming\n'
+         '  - DOMAIN,fls-na.amazon.com,Streaming\n'
+         '  - DOMAIN,avodmp4s3ww-a.akamaihd.net,Streaming\n'
+         '  - DOMAIN,d25xi40x97liuc.cloudfront.net,Streaming\n'
+         '  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,Streaming\n'
+         '  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,Streaming\n'
+         '  - DOMAIN,d22qjgkvxw22r6.cloudfront.net,Streaming\n'
+         '  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Streaming\n'
+         '  - DOMAIN,d27xxe7juh1us6.cloudfront.net,Streaming\n'
+         '  - DOMAIN-KEYWORD,avoddashs,Streaming\n'
+         '  - DOMAIN,linear.tv.apple.com,Streaming\n'
+         '  - DOMAIN,play-edge.itunes.apple.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,bahamut.com.tw,Streaming\n'
+         '  - DOMAIN-SUFFIX,gamer.com.tw,Streaming\n'
+         '  - DOMAIN,gamer-cds.cdn.hinet.net,Streaming\n'
+         '  - DOMAIN,gamer2-cds.cdn.hinet.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,bbc.co.uk,Streaming\n'
+         '  - DOMAIN-SUFFIX,bbci.co.uk,Streaming\n'
+         '  - DOMAIN-KEYWORD,bbcfmt,Streaming\n'
+         '  - DOMAIN-KEYWORD,uk-live,Streaming\n'
+         '  - DOMAIN-SUFFIX,dazn.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,dazn-api.com,Streaming\n'
+         '  - DOMAIN,d151l6v8er5bdm.cloudfront.net,Streaming\n'
+         '  - DOMAIN-KEYWORD,voddazn,Streaming\n'
+         '  - DOMAIN-SUFFIX,bamgrid.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,disneyplus.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,disney-plus.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,disneystreaming.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,dssott.com,Streaming\n'
+         '  - DOMAIN,cdn.registerdisney.go.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,dmm.co.jp,Streaming\n'
+         '  - DOMAIN-SUFFIX,dmm.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,dmm-extension.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,encoretvb.com,Streaming\n'
+         '  - DOMAIN,edge.api.brightcove.com,Streaming\n'
+         '  - DOMAIN,bcbolt446c5271-a.akamaihd.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,fox.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,foxdcg.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,theplatform.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,uplynk.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,foxplus.com,Streaming\n'
+         '  - DOMAIN,cdn-fox-networks-group-green.akamaized.net,Streaming\n'
+         '  - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net,Streaming\n'
+         '  - DOMAIN,foxsports01-i.akamaihd.net,Streaming\n'
+         '  - DOMAIN,foxsports02-i.akamaihd.net,Streaming\n'
+         '  - DOMAIN,foxsports03-i.akamaihd.net,Streaming\n'
+         '  - DOMAIN,staticasiafox.akamaized.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,hbo.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,hbogo.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,hbonow.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,hbomax.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,hbomaxcdn.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,hbogoasia.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,hbogoasia.hk,Streaming\n'
+         '  - DOMAIN,bcbolthboa-a.akamaihd.net,Streaming\n'
+         '  - DOMAIN,players.brightcove.net,Streaming\n'
+         '  - DOMAIN,s3-ap-southeast-1.amazonaws.com,Streaming\n'
+         '  - DOMAIN,dai3fd1oh325y.cloudfront.net,Streaming\n'
+         '  - '
+         'DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Streaming\n'
+         '  - DOMAIN,hboasia1-i.akamaihd.net,Streaming\n'
+         '  - DOMAIN,hboasia2-i.akamaihd.net,Streaming\n'
+         '  - DOMAIN,hboasia3-i.akamaihd.net,Streaming\n'
+         '  - DOMAIN,hboasia4-i.akamaihd.net,Streaming\n'
+         '  - DOMAIN,hboasia5-i.akamaihd.net,Streaming\n'
+         '  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,5itv.tv,Streaming\n'
+         '  - DOMAIN-SUFFIX,ocnttv.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,hulu.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,huluim.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,hulustream.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,happyon.jp,Streaming\n'
+         '  - DOMAIN-SUFFIX,hjholdings.jp,Streaming\n'
+         '  - DOMAIN-SUFFIX,hulu.jp,Streaming\n'
+         '  - DOMAIN-SUFFIX,itv.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,itvstatic.com,Streaming\n'
+         '  - DOMAIN,itvpnpmobile-a.akamaihd.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,kktv.com.tw,Streaming\n'
+         '  - DOMAIN-SUFFIX,kktv.me,Streaming\n'
+         '  - DOMAIN,kktv-theater.kk.stream,Streaming\n'
+         '  - DOMAIN-SUFFIX,linetv.tw,Streaming\n'
+         '  - DOMAIN,d3c7rimkq79yfu.cloudfront.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,litv.tv,Streaming\n'
+         '  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,channel5.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,my5.tv,Streaming\n'
+         '  - DOMAIN,d349g9zuie06uo.cloudfront.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,mytvsuper.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,tvb.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,naver.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,smartmediarep.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflix.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflix.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,nflxext.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,nflximg.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,nflximg.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,nflxso.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,nflxvideo.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest0.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest1.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest2.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest3.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest4.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest5.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest6.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest7.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest8.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest9.com,Streaming\n'
+         '  - DOMAIN-KEYWORD,dualstack.apiproxy-,Streaming\n'
+         '  - DOMAIN-KEYWORD,dualstack.ichnaea-web-,Streaming\n'
+         '  - IP-CIDR,23.246.0.0/18,Streaming,no-resolve\n'
+         '  - IP-CIDR,37.77.184.0/21,Streaming,no-resolve\n'
+         '  - IP-CIDR,45.57.0.0/17,Streaming,no-resolve\n'
+         '  - IP-CIDR,64.120.128.0/17,Streaming,no-resolve\n'
+         '  - IP-CIDR,66.197.128.0/17,Streaming,no-resolve\n'
+         '  - IP-CIDR,108.175.32.0/20,Streaming,no-resolve\n'
+         '  - IP-CIDR,192.173.64.0/18,Streaming,no-resolve\n'
+         '  - IP-CIDR,198.38.96.0/19,Streaming,no-resolve\n'
+         '  - IP-CIDR,198.45.48.0/20,Streaming,no-resolve\n'
+         '  - IP-CIDR,34.210.42.111/32,Streaming,no-resolve\n'
+         '  - IP-CIDR,52.89.124.203/32,Streaming,no-resolve\n'
+         '  - IP-CIDR,54.148.37.5/32,Streaming,no-resolve\n'
+         '  - DOMAIN-SUFFIX,dmc.nico,Streaming\n'
+         '  - DOMAIN-SUFFIX,nicovideo.jp,Streaming\n'
+         '  - DOMAIN-SUFFIX,nimg.jp,Streaming\n'
+         '  - DOMAIN-SUFFIX,nowe.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,nowestatic.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,cbsi.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,cbsaavideo.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,cbsivideo.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,paramountplus.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,pplusstatic.com,Streaming\n'
+         '  - DOMAIN,cbsi.live.ott.irdeto.com,Streaming\n'
+         '  - DOMAIN,cbsplaylistserver.aws.syncbak.com,Streaming\n'
+         '  - DOMAIN,cbsservice.aws.syncbak.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,pbs.org,Streaming\n'
+         '  - DOMAIN-SUFFIX,phncdn.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,phprcdn.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,pornhub.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,pornhubpremium.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,skyking.com.tw,Streaming\n'
+         '  - DOMAIN,hamifans.emome.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,byteoversea.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,ibytedtos.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,muscdn.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,musical.ly,Streaming\n'
+         '  - DOMAIN-SUFFIX,tiktok.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,tik-tokapi.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,tiktokcdn.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,tiktokv.com,Streaming\n'
+         '  - DOMAIN-KEYWORD,-tiktokcdn-com,Streaming\n'
+         '  - DOMAIN-SUFFIX,tver.jp,Streaming\n'
+         '  - DOMAIN,edge.api.brightcove.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,jtvnw.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,ttvnw.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,twitch.tv,Streaming\n'
+         '  - DOMAIN-SUFFIX,twitchcdn.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,viu.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,viu.tv,Streaming\n'
+         '  - DOMAIN,api.viu.now.com,Streaming\n'
+         '  - DOMAIN,d1k2us671qcoau.cloudfront.net,Streaming\n'
+         '  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,Streaming\n'
+         '  - DOMAIN,dfp6rglgjqszk.cloudfront.net,Streaming\n'
+         '  - DOMAIN-SUFFIX,googlevideo.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,youtube.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,ytimg.com,Streaming\n'
+         '  - DOMAIN,youtubei.googleapis.com,Streaming\n'
+         '  - DOMAIN,yt3.ggpht.com,Streaming\n'
+         '  - DOMAIN-SUFFIX,biliapi.net,StreamingSE\n'
+         '  - DOMAIN-SUFFIX,bilibili.com,StreamingSE\n'
+         '  - DOMAIN,upos-hz-mirrorakam.akamaized.net,StreamingSE\n'
+         '  - DOMAIN-KEYWORD,cn-hk-eq-bcache-,StreamingSE\n'
+         '  - DOMAIN-SUFFIX,iq.com,StreamingSE\n'
+         '  - DOMAIN,cache.video.iqiyi.com,StreamingSE\n'
+         '  - DOMAIN,cache-video.iq.com,StreamingSE\n'
+         '  - DOMAIN,intl.iqiyi.com,StreamingSE\n'
+         '  - DOMAIN,intl-rcd.iqiyi.com,StreamingSE\n'
+         '  - DOMAIN,intl-subscription.iqiyi.com,StreamingSE\n'
+         '  - DOMAIN-KEYWORD,oversea-tw.inter.iqiyi.com,StreamingSE\n'
+         '  - DOMAIN-KEYWORD,oversea-tw.inter.ptqy.gitv.tv,StreamingSE\n'
+         '  - IP-CIDR,103.44.56.0/22,StreamingSE,no-resolve\n'
+         '  - IP-CIDR,118.26.32.0/23,StreamingSE,no-resolve\n'
+         '  - IP-CIDR,118.26.120.0/24,StreamingSE,no-resolve\n'
+         '  - IP-CIDR,223.119.62.225/28,StreamingSE,no-resolve\n'
+         '  - IP-CIDR,23.40.242.10/32,StreamingSE,no-resolve\n'
+         '  - IP-CIDR,23.40.241.251/32,StreamingSE,no-resolve\n'
+         '  - DOMAIN-SUFFIX,api.mgtv.com,StreamingSE\n'
+         '  - DOMAIN-SUFFIX,wetv.vip,StreamingSE\n'
+         '  - DOMAIN-SUFFIX,wetvinfo.com,StreamingSE\n'
+         '  - DOMAIN-SUFFIX,himalaya.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,deezer.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dzcdn.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,joox.com,Proxies\n'
+         '  - DOMAIN-KEYWORD,jooxweb-api,Proxies\n'
+         '  - DOMAIN-SUFFIX,kkbox.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,kkbox.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,kfs.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,pandora.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,p-cdn.us,Proxies\n'
+         '  - DOMAIN-SUFFIX,sndcdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,soundcloud.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pscdn.co,Proxies\n'
+         '  - DOMAIN-SUFFIX,scdn.co,Proxies\n'
+         '  - DOMAIN-SUFFIX,spotify.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,spoti.fi,Proxies\n'
+         '  - DOMAIN-KEYWORD,spotify.com,Proxies\n'
+         '  - DOMAIN-KEYWORD,-spotify-com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tidal.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,abema.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,abema.tv,Proxies\n'
+         '  - DOMAIN-SUFFIX,ameba.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,hayabusa.io,Proxies\n'
+         '  - DOMAIN-KEYWORD,abematv.akamaized.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,c4assets.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,channel4.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,aiv-cdn.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,aiv-delivery.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,amazonvideo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,primevideo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,media-amazon.com,Proxies\n'
+         '  - DOMAIN,atv-ps.amazon.com,Proxies\n'
+         '  - DOMAIN,fls-na.amazon.com,Proxies\n'
+         '  - DOMAIN,avodmp4s3ww-a.akamaihd.net,Proxies\n'
+         '  - DOMAIN,d25xi40x97liuc.cloudfront.net,Proxies\n'
+         '  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,Proxies\n'
+         '  - DOMAIN,dmqdd6hw24ucf.cloudfront.net,Proxies\n'
+         '  - DOMAIN,d22qjgkvxw22r6.cloudfront.net,Proxies\n'
+         '  - DOMAIN,d1v5ir2lpwr8os.cloudfront.net,Proxies\n'
+         '  - DOMAIN,d27xxe7juh1us6.cloudfront.net,Proxies\n'
+         '  - DOMAIN-KEYWORD,avoddashs,Proxies\n'
+         '  - DOMAIN,linear.tv.apple.com,Proxies\n'
+         '  - DOMAIN,play-edge.itunes.apple.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bahamut.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,gamer.com.tw,Proxies\n'
+         '  - DOMAIN,gamer-cds.cdn.hinet.net,Proxies\n'
+         '  - DOMAIN,gamer2-cds.cdn.hinet.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,bbc.co.uk,Proxies\n'
+         '  - DOMAIN-SUFFIX,bbci.co.uk,Proxies\n'
+         '  - DOMAIN-KEYWORD,bbcfmt,Proxies\n'
+         '  - DOMAIN-KEYWORD,uk-live,Proxies\n'
+         '  - DOMAIN-SUFFIX,dazn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dazn-api.com,Proxies\n'
+         '  - DOMAIN,d151l6v8er5bdm.cloudfront.net,Proxies\n'
+         '  - DOMAIN-KEYWORD,voddazn,Proxies\n'
+         '  - DOMAIN-SUFFIX,bamgrid.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,disneyplus.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,disney-plus.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,disneystreaming.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dssott.com,Proxies\n'
+         '  - DOMAIN,cdn.registerdisney.go.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dmm.co.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,dmm.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dmm-extension.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,encoretvb.com,Proxies\n'
+         '  - DOMAIN,edge.api.brightcove.com,Proxies\n'
+         '  - DOMAIN,bcbolt446c5271-a.akamaihd.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,fox.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,foxdcg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,theplatform.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,uplynk.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,foxplus.com,Proxies\n'
+         '  - DOMAIN,cdn-fox-networks-group-green.akamaized.net,Proxies\n'
+         '  - DOMAIN,d3cv4a9a9wh0bt.cloudfront.net,Proxies\n'
+         '  - DOMAIN,foxsports01-i.akamaihd.net,Proxies\n'
+         '  - DOMAIN,foxsports02-i.akamaihd.net,Proxies\n'
+         '  - DOMAIN,foxsports03-i.akamaihd.net,Proxies\n'
+         '  - DOMAIN,staticasiafox.akamaized.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,hbo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hbogo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hbonow.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hbomax.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hbomaxcdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hbogoasia.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hbogoasia.hk,Proxies\n'
+         '  - DOMAIN,bcbolthboa-a.akamaihd.net,Proxies\n'
+         '  - DOMAIN,players.brightcove.net,Proxies\n'
+         '  - DOMAIN,s3-ap-southeast-1.amazonaws.com,Proxies\n'
+         '  - DOMAIN,dai3fd1oh325y.cloudfront.net,Proxies\n'
+         '  - '
+         'DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Proxies\n'
+         '  - DOMAIN,hboasia1-i.akamaihd.net,Proxies\n'
+         '  - DOMAIN,hboasia2-i.akamaihd.net,Proxies\n'
+         '  - DOMAIN,hboasia3-i.akamaihd.net,Proxies\n'
+         '  - DOMAIN,hboasia4-i.akamaihd.net,Proxies\n'
+         '  - DOMAIN,hboasia5-i.akamaihd.net,Proxies\n'
+         '  - DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,5itv.tv,Proxies\n'
+         '  - DOMAIN-SUFFIX,ocnttv.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hulu.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,huluim.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hulustream.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,happyon.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,hjholdings.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,hulu.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,itv.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,itvstatic.com,Proxies\n'
+         '  - DOMAIN,itvpnpmobile-a.akamaihd.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,kktv.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,kktv.me,Proxies\n'
+         '  - DOMAIN,kktv-theater.kk.stream,Proxies\n'
+         '  - DOMAIN-SUFFIX,linetv.tw,Proxies\n'
+         '  - DOMAIN,d3c7rimkq79yfu.cloudfront.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,litv.tv,Proxies\n'
+         '  - DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,channel5.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,my5.tv,Proxies\n'
+         '  - DOMAIN,d349g9zuie06uo.cloudfront.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,mytvsuper.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tvb.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,naver.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,smartmediarep.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflix.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflix.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,nflxext.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nflximg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nflximg.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,nflxso.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,nflxvideo.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest0.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest1.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest2.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest3.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest4.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest5.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest6.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest7.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest8.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,netflixdnstest9.com,Proxies\n'
+         '  - DOMAIN-KEYWORD,dualstack.apiproxy-,Proxies\n'
+         '  - DOMAIN-KEYWORD,dualstack.ichnaea-web-,Proxies\n'
+         '  - IP-CIDR,23.246.0.0/18,Proxies,no-resolve\n'
+         '  - IP-CIDR,37.77.184.0/21,Proxies,no-resolve\n'
+         '  - IP-CIDR,45.57.0.0/17,Proxies,no-resolve\n'
+         '  - IP-CIDR,64.120.128.0/17,Proxies,no-resolve\n'
+         '  - IP-CIDR,66.197.128.0/17,Proxies,no-resolve\n'
+         '  - IP-CIDR,108.175.32.0/20,Proxies,no-resolve\n'
+         '  - IP-CIDR,192.173.64.0/18,Proxies,no-resolve\n'
+         '  - IP-CIDR,198.38.96.0/19,Proxies,no-resolve\n'
+         '  - IP-CIDR,198.45.48.0/20,Proxies,no-resolve\n'
+         '  - IP-CIDR,34.210.42.111/32,Proxies,no-resolve\n'
+         '  - IP-CIDR,52.89.124.203/32,Proxies,no-resolve\n'
+         '  - IP-CIDR,54.148.37.5/32,Proxies,no-resolve\n'
+         '  - DOMAIN-SUFFIX,dmc.nico,Proxies\n'
+         '  - DOMAIN-SUFFIX,nicovideo.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,nimg.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,nowe.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nowestatic.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,cbsi.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,cbsaavideo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,cbsivideo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,paramountplus.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pplusstatic.com,Proxies\n'
+         '  - DOMAIN,cbsi.live.ott.irdeto.com,Proxies\n'
+         '  - DOMAIN,cbsplaylistserver.aws.syncbak.com,Proxies\n'
+         '  - DOMAIN,cbsservice.aws.syncbak.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pbs.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,phncdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,phprcdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pornhub.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pornhubpremium.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,skyking.com.tw,Proxies\n'
+         '  - DOMAIN,hamifans.emome.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,byteoversea.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ibytedtos.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,muscdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,musical.ly,Proxies\n'
+         '  - DOMAIN-SUFFIX,tiktok.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tik-tokapi.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tiktokcdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tiktokv.com,Proxies\n'
+         '  - DOMAIN-KEYWORD,-tiktokcdn-com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tver.jp,Proxies\n'
+         '  - DOMAIN,edge.api.brightcove.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,jtvnw.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,ttvnw.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,twitch.tv,Proxies\n'
+         '  - DOMAIN-SUFFIX,twitchcdn.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,viu.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,viu.tv,Proxies\n'
+         '  - DOMAIN,api.viu.now.com,Proxies\n'
+         '  - DOMAIN,d1k2us671qcoau.cloudfront.net,Proxies\n'
+         '  - DOMAIN,d2anahhhmp1ffz.cloudfront.net,Proxies\n'
+         '  - DOMAIN,dfp6rglgjqszk.cloudfront.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,googlevideo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,youtube.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ytimg.com,Proxies\n'
+         '  - DOMAIN,youtubei.googleapis.com,Proxies\n'
+         '  - DOMAIN,yt3.ggpht.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,amazon.co.jp,Proxies\n'
+         '  - DOMAIN,d3c33hcgiwev3.cloudfront.net,Proxies\n'
+         '  - DOMAIN,payments-jp.amazon.com,Proxies\n'
+         '  - DOMAIN,s3-ap-northeast-1.amazonaws.com,Proxies\n'
+         '  - DOMAIN,s3-ap-southeast-2.amazonaws.com,Proxies\n'
+         '  - DOMAIN,a248.e.akamai.net,Proxies\n'
+         '  - DOMAIN,a771.dscq.akamai.net,Proxies\n'
+         '  - DOMAIN,testflight.apple.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,aex.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bibox.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,binance.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bitcointalk.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,bitfinex.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bitmex.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,gate.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,huobi.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,okex.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,zb.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,discordapp.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,discordapp.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,dropbox.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dropboxapi.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dropboxusercontent.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,cdninstagram.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,facebook.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,facebook.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,fb.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,fb.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,fbaddins.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,fbcdn.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,fbsbx.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,fbworkmail.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,instagram.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,m.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,messenger.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,oculus.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,oculuscdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,rocksdb.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,whatsapp.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,whatsapp.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,github.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,github.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,githubusercontent.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,appspot.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,blogger.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,getoutline.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,gvt0.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,gvt3.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ytimg.com,Proxies\n'
+         '  - DOMAIN-KEYWORD,google,Proxies\n'
+         '  - DOMAIN-KEYWORD,.blogspot.,Proxies\n'
+         '  - DOMAIN-SUFFIX,line.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,line-apps.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,line-scdn.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,naver.jp,Proxies\n'
+         '  - IP-CIDR,103.2.30.0/23,Proxies,no-resolve\n'
+         '  - IP-CIDR,125.209.208.0/20,Proxies,no-resolve\n'
+         '  - IP-CIDR,147.92.128.0/17,Proxies,no-resolve\n'
+         '  - IP-CIDR,203.104.144.0/21,Proxies,no-resolve\n'
+         '  - DOMAIN-SUFFIX,aka.ms,Proxies\n'
+         '  - DOMAIN-SUFFIX,onedrive.live.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,streaming.mediaservices.windows.net,Proxies\n'
+         '  - DOMAIN,assets1.xboxlive.com,Proxies\n'
+         '  - DOMAIN,assets2.xboxlive.com,Proxies\n'
+         '  - DOMAIN,az416426.vo.msecnd.net,Proxies\n'
+         '  - DOMAIN,az668014.vo.msecnd.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,nyt.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nytchina.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nytcn.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,nytco.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nytimes.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nytimg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nytlog.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nytstyle.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pixiv.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,pixiv.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,pximg.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,redd.it,Proxies\n'
+         '  - DOMAIN-SUFFIX,reddit.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,redditmedia.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,telegra.ph,Proxies\n'
+         '  - DOMAIN-SUFFIX,telegram.org,Proxies\n'
+         '  - IP-CIDR,91.108.4.0/22,Proxies,no-resolve\n'
+         '  - IP-CIDR,91.108.8.0/22,Proxies,no-resolve\n'
+         '  - IP-CIDR,91.108.12.0/22,Proxies,no-resolve\n'
+         '  - IP-CIDR,91.108.16.0/22,Proxies,no-resolve\n'
+         '  - IP-CIDR,91.108.20.0/22,Proxies,no-resolve\n'
+         '  - IP-CIDR,91.108.56.0/22,Proxies,no-resolve\n'
+         '  - IP-CIDR,149.154.160.0/20,Proxies,no-resolve\n'
+         '  - IP-CIDR6,2001:b28:f23d::/48,Proxies,no-resolve\n'
+         '  - IP-CIDR6,2001:b28:f23f::/48,Proxies,no-resolve\n'
+         '  - IP-CIDR6,2001:67c:4e8::/48,Proxies,no-resolve\n'
+         '  - DOMAIN-SUFFIX,pscp.tv,Proxies\n'
+         '  - DOMAIN-SUFFIX,periscope.tv,Proxies\n'
+         '  - DOMAIN-SUFFIX,t.co,Proxies\n'
+         '  - DOMAIN-SUFFIX,twimg.co,Proxies\n'
+         '  - DOMAIN-SUFFIX,twimg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,twitpic.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,twitter.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,vine.co,Proxies\n'
+         '  - DOMAIN-SUFFIX,wikileaks.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,wikimapia.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,wikimedia.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,wikinews.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,wikipedia.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,wikiquote.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,4shared.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,9cache.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,9gag.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,abc.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,abc.net.au,Proxies\n'
+         '  - DOMAIN-SUFFIX,abebooks.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ao3.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,apigee.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,apkcombo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,apk-dl.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,apkfind.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,apkmirror.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,apkmonk.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,apkpure.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,aptoide.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,archive.is,Proxies\n'
+         '  - DOMAIN-SUFFIX,archive.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,archiveofourown.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,archiveofourown.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,arte.tv,Proxies\n'
+         '  - DOMAIN-SUFFIX,artstation.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,arukas.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,ask.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,avg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,avgle.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,badoo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bandcamp.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bandwagonhost.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bangkokpost.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bbc.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,behance.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,biggo.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,bit.ly,Proxies\n'
+         '  - DOMAIN-SUFFIX,bloglovin.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bloomberg.cn,Proxies\n'
+         '  - DOMAIN-SUFFIX,bloomberg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,blubrry.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,book.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,booklive.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,books.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,boslife.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,box.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,brave.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,businessinsider.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,buzzfeed.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bwh1.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,castbox.fm,Proxies\n'
+         '  - DOMAIN-SUFFIX,cbc.ca,Proxies\n'
+         '  - DOMAIN-SUFFIX,cdw.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,change.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,channelnewsasia.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ck101.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,clarionproject.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,cloudcone.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,clubhouseapi.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,clyp.it,Proxies\n'
+         '  - DOMAIN-SUFFIX,cna.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,comparitech.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,conoha.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,crucial.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,cts.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,cw.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,cyberctm.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dailymotion.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dailyview.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,daum.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,daumcdn.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,dcard.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,deadline.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,deepdiscount.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,depositphotos.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,deviantart.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,disconnect.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,disqus.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dlercloud.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dmhy.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,dns2go.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dowjones.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,duckduckgo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,duyaoss.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dw.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dynu.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,earthcam.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ebookservice.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,economist.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,edgecastcdn.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,edx-cdn.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,elpais.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,enanyang.my,Proxies\n'
+         '  - DOMAIN-SUFFIX,encyclopedia.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,esoir.be,Proxies\n'
+         '  - DOMAIN-SUFFIX,etherscan.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,euronews.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,evozi.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,exblog.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,feeder.co,Proxies\n'
+         '  - DOMAIN-SUFFIX,feedly.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,feedx.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,firech.at,Proxies\n'
+         '  - DOMAIN-SUFFIX,flickr.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,flipboard.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,flitto.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,foreignpolicy.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,fortawesome.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,freetls.fastly.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,friday.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,ft.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ftchinese.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ftimg.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,genius.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,getlantern.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,getsync.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,globalvoices.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,goo.ne.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,goodreads.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,gov.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,gravatar.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,greatfire.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,gumroad.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,heroku.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hightail.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hk01.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hkbf.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,hkbookcity.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hkej.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hket.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hootsuite.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hudson.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,huffpost.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,hyread.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,ibtimes.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,i-cable.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,icij.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,icoco.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,imgur.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,independent.co.uk,Proxies\n'
+         '  - DOMAIN-SUFFIX,initiummall.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,inoreader.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,insecam.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,ipfs.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,issuu.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,istockphoto.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,japantimes.co.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,jiji.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,jinx.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,jkforum.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,joinclubhouse.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,joinmastodon.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,justmysocks.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,justpaste.it,Proxies\n'
+         '  - DOMAIN-SUFFIX,kadokawa.co.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,kakao.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,kakaocorp.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,kik.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,kingkong.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,knowyourmeme.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,kobo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,kobobooks.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,kodingen.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,lemonde.fr,Proxies\n'
+         '  - DOMAIN-SUFFIX,lepoint.fr,Proxies\n'
+         '  - DOMAIN-SUFFIX,lihkg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,limbopro.xyz,Proxies\n'
+         '  - DOMAIN-SUFFIX,listennotes.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,livestream.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,logimg.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,logmein.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,mail.ru,Proxies\n'
+         '  - DOMAIN-SUFFIX,mailchimp.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,marc.info,Proxies\n'
+         '  - DOMAIN-SUFFIX,matters.news,Proxies\n'
+         '  - DOMAIN-SUFFIX,maying.co,Proxies\n'
+         '  - DOMAIN-SUFFIX,medium.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,mega.nz,Proxies\n'
+         '  - DOMAIN-SUFFIX,mergersandinquisitions.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,mingpao.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,mixi.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,mobile01.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,mubi.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,myspace.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,myspacecdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nanyang.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nationalinterest.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,naver.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nbcnews.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ndr.de,Proxies\n'
+         '  - DOMAIN-SUFFIX,neowin.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,newstapa.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,nexitally.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nhk.or.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,nii.ac.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,nikkei.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nitter.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,nofile.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,notion.so,Proxies\n'
+         '  - DOMAIN-SUFFIX,now.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,nrk.no,Proxies\n'
+         '  - DOMAIN-SUFFIX,nuget.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,nyaa.si,Proxies\n'
+         '  - DOMAIN-SUFFIX,ok.ru,Proxies\n'
+         '  - DOMAIN-SUFFIX,on.cc,Proxies\n'
+         '  - DOMAIN-SUFFIX,orientaldaily.com.my,Proxies\n'
+         '  - DOMAIN-SUFFIX,overcast.fm,Proxies\n'
+         '  - DOMAIN-SUFFIX,paltalk.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,parsevideo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pawoo.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,pbxes.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pcdvd.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,pchome.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,pcloud.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,peing.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,picacomic.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pinimg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,player.fm,Proxies\n'
+         '  - DOMAIN-SUFFIX,plurk.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,po18.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,potato.im,Proxies\n'
+         '  - DOMAIN-SUFFIX,potatso.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,prism-break.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,proxifier.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,pt.im,Proxies\n'
+         '  - DOMAIN-SUFFIX,pts.org.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,pubu.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,pubu.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,pureapk.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,quora.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,quoracdn.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,qz.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,radio.garden,Proxies\n'
+         '  - DOMAIN-SUFFIX,rakuten.co.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,rarbgprx.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,reabble.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,readingtimes.com.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,readmoo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,redbubble.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,resilio.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,reuters.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,reutersmedia.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,rfi.fr,Proxies\n'
+         '  - DOMAIN-SUFFIX,roadshow.hk,Proxies\n'
+         '  - DOMAIN-SUFFIX,rsshub.app,Proxies\n'
+         '  - DOMAIN-SUFFIX,scmp.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,scribd.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,seatguru.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,shadowsocks.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,shindanmaker.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,shopee.tw,Proxies\n'
+         '  - DOMAIN-SUFFIX,signal.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,sina.com.hk,Proxies\n'
+         '  - DOMAIN-SUFFIX,slideshare.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,softfamous.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,spiegel.de,Proxies\n'
+         '  - DOMAIN-SUFFIX,startpage.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,steamcommunity.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,steemit.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,steemitwallet.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,straitstimes.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,streamable.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,streema.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,t66y.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tapatalk.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,teco-hk.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,teco-mo.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,teddysun.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,textnow.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,theguardian.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,theinitium.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,themoviedb.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,thetvdb.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,time.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tineye.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tiny.cc,Proxies\n'
+         '  - DOMAIN-SUFFIX,tinyurl.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,torproject.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,tumblr.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,turbobit.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,tutanota.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,tvboxnow.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,udn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,unseen.is,Proxies\n'
+         '  - DOMAIN-SUFFIX,upmedia.mg,Proxies\n'
+         '  - DOMAIN-SUFFIX,uptodown.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,urbandictionary.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ustream.tv,Proxies\n'
+         '  - DOMAIN-SUFFIX,uwants.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,v2fly.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,v2ray.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,viber.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,videopress.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,vimeo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,voachinese.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,voanews.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,voxer.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,vzw.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,w3schools.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,washingtonpost.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,wattpad.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,whoer.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,wikiwand.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,winudf.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,wire.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,wn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,wordpress.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,worldcat.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,wsj.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,wsj.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,xhamster.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,xn--90wwvt03e.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,xn--i2ru8q2qg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,xnxx.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,xvideos.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,yahoo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,yandex.ru,Proxies\n'
+         '  - DOMAIN-SUFFIX,ycombinator.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,yesasia.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,yes-news.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,yomiuri.co.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,you-get.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,zaobao.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,zello.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,zeronet.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,zoom.us,Proxies\n'
+         '  - DOMAIN,cc.tvbs.com.tw,Proxies\n'
+         '  - DOMAIN,ocsp.int-x3.letsencrypt.org,Proxies\n'
+         '  - DOMAIN,search.avira.com,Proxies\n'
+         '  - DOMAIN,us.weibo.com,Proxies\n'
+         '  - DOMAIN-KEYWORD,.pinterest.,Proxies\n'
+         '  - DOMAIN-SUFFIX,edu,Proxies\n'
+         '  - DOMAIN-SUFFIX,gov,Proxies\n'
+         '  - DOMAIN-SUFFIX,mil,Proxies\n'
+         '  - DOMAIN-SUFFIX,abc.xyz,Proxies\n'
+         '  - DOMAIN-SUFFIX,advertisercommunity.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ampproject.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,android.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,androidify.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,autodraw.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,capitalg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,certificate-transparency.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,chrome.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,chromeexperiments.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,chromestatus.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,chromium.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,creativelab5.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,debug.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,deepmind.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,dialogflow.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,firebaseio.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,getmdl.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,ggpht.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,gmail.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,gmodules.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,godoc.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,golang.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,gstatic.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,gv.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,gwtproject.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,itasoftware.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,madewithcode.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,material.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,page.link,Proxies\n'
+         '  - DOMAIN-SUFFIX,polymer-project.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,recaptcha.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,shattered.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,synergyse.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,telephony.goog,Proxies\n'
+         '  - DOMAIN-SUFFIX,tensorflow.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,tfhub.dev,Proxies\n'
+         '  - DOMAIN-SUFFIX,tiltbrush.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,waveprotocol.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,waymo.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,webmproject.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,webrtc.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,whatbrowser.org,Proxies\n'
+         '  - DOMAIN-SUFFIX,widevine.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,x.company,Proxies\n'
+         '  - DOMAIN-SUFFIX,youtu.be,Proxies\n'
+         '  - DOMAIN-SUFFIX,yt.be,Proxies\n'
+         '  - DOMAIN-SUFFIX,ytimg.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,t.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,tdesktop.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,telegram.me,Proxies\n'
+         '  - DOMAIN-SUFFIX,telesco.pe,Proxies\n'
+         '  - DOMAIN-KEYWORD,.facebook.,Proxies\n'
+         '  - DOMAIN-SUFFIX,facebookmail.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,noxinfluencer.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,smartmailcloud.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,weebly.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,twitter.jp,Proxies\n'
+         '  - DOMAIN-SUFFIX,appsto.re,Proxies\n'
+         '  - DOMAIN,books.itunes.apple.com,Proxies\n'
+         '  - DOMAIN,apps.apple.com,Proxies\n'
+         '  - DOMAIN,itunes.apple.com,Proxies\n'
+         '  - DOMAIN,api-glb-sea.smoot.apple.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,smoot.apple.com,Proxies\n'
+         '  - DOMAIN,lookup-api.apple.com,Proxies\n'
+         '  - DOMAIN,beta.music.apple.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,bing.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,cccat.io,Proxies\n'
+         '  - DOMAIN-SUFFIX,dubox.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,duboxcdn.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,ifixit.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,mangakakalot.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,shopeemobile.com,Proxies\n'
+         '  - DOMAIN,appleid.apple.com,Proxies\n'
+         '  - DOMAIN,developer.apple.com,Proxies\n'
+         '  - DOMAIN,www.icloud.com,Proxies\n'
+         '  - DOMAIN,ocsp.apple.com,Proxies\n'
+         '  - DOMAIN,xp.apple.com,Proxies\n'
+         '  - DOMAIN,cacerts.digicert.com,Proxies\n'
+         '  - DOMAIN,crl3.digicert.com,Proxies\n'
+         '  - DOMAIN,crl4.digicert.com,Proxies\n'
+         '  - DOMAIN,ocsp.digicert.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,cloudcone.com.cn,Proxies\n'
+         '  - DOMAIN-SUFFIX,inkbunny.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,metapix.net,Proxies\n'
+         '  - DOMAIN-SUFFIX,s3.amazonaws.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,zaobao.com.sg,Proxies\n'
+         '  - DOMAIN,international-gfe.download.nvidia.com,Proxies\n'
+         '  - DOMAIN,store-images.s-microsoft.com,Proxies\n'
+         '  - DOMAIN-SUFFIX,local,DIRECT\n'
+         '  - IP-CIDR,192.168.0.0/16,DIRECT,no-resolve\n'
+         '  - IP-CIDR,10.0.0.0/8,DIRECT,no-resolve\n'
+         '  - IP-CIDR,172.16.0.0/12,DIRECT,no-resolve\n'
+         '  - IP-CIDR,127.0.0.0/8,DIRECT,no-resolve\n'
+         '  - IP-CIDR,100.64.0.0/10,DIRECT,no-resolve\n'
+         '  - IP-CIDR6,::1/128,DIRECT,no-resolve\n'
+         '  - IP-CIDR6,fc00::/7,DIRECT,no-resolve\n'
+         '  - IP-CIDR6,fe80::/10,DIRECT,no-resolve\n'
+         '  - IP-CIDR6,fd00::/8,DIRECT,no-resolve\n'
+         '  - DOMAIN,app.adjust.com,DIRECT\n'
+         '  - DOMAIN,bdtj.tagtic.cn,DIRECT\n'
+         '  - DOMAIN,log.mmstat.com,DIRECT\n'
+         '  - DOMAIN,sycm.mmstat.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,blog.google,DIRECT\n'
+         '  - DOMAIN-SUFFIX,googletraveladservices.com,DIRECT\n'
+         '  - DOMAIN,clientservices.googleapis.com,DIRECT\n'
+         '  - DOMAIN,dl.google.com,DIRECT\n'
+         '  - DOMAIN,dl.l.google.com,DIRECT\n'
+         '  - DOMAIN,update.googleapis.com,DIRECT\n'
+         '  - DOMAIN,translate.googleapis.com,DIRECT\n'
+         '  - DOMAIN,fonts.googleapis.com,DIRECT\n'
+         '  - DOMAIN,fonts.gstatic.com,DIRECT\n'
+         '  - DOMAIN,mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt1-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt2-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt3-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt4-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt5-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt6-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt7-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,alt8-mtalk.google.com,DIRECT\n'
+         '  - DOMAIN,pubads.g.doubleclick.net,DIRECT\n'
+         '  - DOMAIN,fairplay.l.qq.com,DIRECT\n'
+         '  - DOMAIN,livew.l.qq.com,DIRECT\n'
+         '  - DOMAIN,vd.l.qq.com,DIRECT\n'
+         '  - DOMAIN,analytics.strava.com,DIRECT\n'
+         '  - DOMAIN,msg.umeng.com,DIRECT\n'
+         '  - DOMAIN,msg.umengcloud.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,qhres.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,qhimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,alibaba.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,alibabausercontent.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,alicdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,alikunlun.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,alipay.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,amap.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,autonavi.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,dingtalk.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mxhichina.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,soku.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,taobao.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tmall.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tmall.hk,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ykimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,youku.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,xiami.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,xiami.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,aaplimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,apple.co,DIRECT\n'
+         '  - DOMAIN-SUFFIX,apple.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,appstore.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,cdn-apple.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,icloud.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,icloud-content.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,me.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mzstatic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,baidu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,baidubcr.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,baidupan.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,baidupcs.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,bdimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,bdstatic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,yunjiasu-cdn.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,battle.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,blizzard.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,acgvideo.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,biliapi.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,biliapi.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,bilibili.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,bilibili.tv,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hdslb.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,feiliao.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,pstatp.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,snssdk.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,iesdouyin.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,toutiao.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,cctv.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,cctvpic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,livechina.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,21cn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,didialift.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,didiglobal.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,udache.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hitv.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mgtv.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,iqiyi.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,iqiyipic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,71.am,DIRECT\n'
+         '  - DOMAIN-SUFFIX,jd.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,jd.hk,DIRECT\n'
+         '  - DOMAIN-SUFFIX,jdpay.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,360buyimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,iciba.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ksosoft.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,meitu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,meitudata.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,meitustat.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,meipai.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,dianping.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,dpfile.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,meituan.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,meituan.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,duokan.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mi.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mi-img.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,miui.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,miwifi.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,xiaomi.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,xiaomi.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,visualstudio.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hotmail.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,outlook.com,DIRECT\n'
+         '  - DOMAIN,outlook.office365.com,DIRECT\n'
+         '  - DOMAIN,smtp.office365.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,windowsupdate.microsoft.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,update.microsoft.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,windowsupdate.com,DIRECT\n'
+         '  - DOMAIN,download.microsoft.com,DIRECT\n'
+         '  - DOMAIN,wustat.windows.com,DIRECT\n'
+         '  - DOMAIN,ntservicepack.microsoft.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,163.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,126.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,126.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,127.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,163yun.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,lofter.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,netease.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ydstatic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,paypal.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,paypal.me,DIRECT\n'
+         '  - DOMAIN-SUFFIX,paypalobjects.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sina.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,weibo.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,weibocdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sohu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sohucs.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sohu-inc.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,v-56.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sogo.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sogou.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sogoucdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,steamcontent.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,steampowered.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,steamstatic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,gtimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,idqqimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,igamecj.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,myapp.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,myqcloud.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,qq.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,qqmail.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,servicewechat.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tencent.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tencent-cloud.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tenpay.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,wechat.com,DIRECT\n'
+         '  - DOMAIN,file-igamecj.akamaized.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ccgslb.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ccgslb.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,chinanetcenter.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,meixincdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ourdvs.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,staticdn.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,wangsu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ipip.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ip.la,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ip.sb,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ip-cdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ipv6-test.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,myip.la,DIRECT\n'
+         '  - DOMAIN-SUFFIX,test-ipv6.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,whatismyip.com,DIRECT\n'
+         '  - DOMAIN,ip.istatmenus.app,DIRECT\n'
+         '  - DOMAIN,sms.imagetasks.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,netspeedtestmaster.com,DIRECT\n'
+         '  - DOMAIN,speedtest.macpaw.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,acg.rip,DIRECT\n'
+         '  - DOMAIN-SUFFIX,animebytes.tv,DIRECT\n'
+         '  - DOMAIN-SUFFIX,awesome-hd.me,DIRECT\n'
+         '  - DOMAIN-SUFFIX,broadcasthe.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,chdbits.co,DIRECT\n'
+         '  - DOMAIN-SUFFIX,classix-unlimited.co.uk,DIRECT\n'
+         '  - DOMAIN-SUFFIX,comicat.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,empornium.me,DIRECT\n'
+         '  - DOMAIN-SUFFIX,gazellegames.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hdbits.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hdchina.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hddolby.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hdhome.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hdsky.me,DIRECT\n'
+         '  - DOMAIN-SUFFIX,icetorrent.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,jpopsuki.eu,DIRECT\n'
+         '  - DOMAIN-SUFFIX,keepfrds.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,madsrevolution.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,morethan.tv,DIRECT\n'
+         '  - DOMAIN-SUFFIX,m-team.cc,DIRECT\n'
+         '  - DOMAIN-SUFFIX,myanonamouse.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,nanyangpt.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ncore.cc,DIRECT\n'
+         '  - DOMAIN-SUFFIX,open.cd,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ourbits.club,DIRECT\n'
+         '  - DOMAIN-SUFFIX,passthepopcorn.me,DIRECT\n'
+         '  - DOMAIN-SUFFIX,privatehd.to,DIRECT\n'
+         '  - DOMAIN-SUFFIX,pterclub.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,redacted.ch,DIRECT\n'
+         '  - DOMAIN-SUFFIX,springsunday.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tjupt.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,totheglory.im,DIRECT\n'
+         '  - DOMAIN-SUFFIX,cn,DIRECT\n'
+         '  - DOMAIN-SUFFIX,115.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,360in.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,51ym.me,DIRECT\n'
+         '  - DOMAIN-SUFFIX,8686c.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,99.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,abchina.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,accuweather.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,agora.io,DIRECT\n'
+         '  - DOMAIN-SUFFIX,aicoinstorge.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,air-matters.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,air-matters.io,DIRECT\n'
+         '  - DOMAIN-SUFFIX,aixifan.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,amd.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,b612.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,bdatu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,beitaichufang.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,booking.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,bstatic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,cailianpress.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,camera360.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,chaoxing.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,chaoxing.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,chinaso.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,chuimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,chunyu.mobi,DIRECT\n'
+         '  - DOMAIN-SUFFIX,cmbchina.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,cmbimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,coolapk.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ctrip.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,dfcfw.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,dji.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,docschina.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,douban.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,doubanio.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,douyu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,dxycdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,dytt8.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,eastmoney.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,eudic.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,feng.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,fengkongcloud.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,frdic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,futu5.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,futunn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,gandi.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,gcores.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,geilicdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,getpricetag.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,gifshow.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,godic.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hicloud.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hongxiu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,hostbuf.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,huxiucdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,huya.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ibm.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,infinitynewtab.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ithome.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,java.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,jianguoyun.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,jianshu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,jianshu.io,DIRECT\n'
+         '  - DOMAIN-SUFFIX,jidian.im,DIRECT\n'
+         '  - DOMAIN-SUFFIX,kaiyanapp.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,kaspersky-labs.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,keepcdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,kkmh.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,lanzous.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,licdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,linkedin.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,luojilab.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,maoyan.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,maoyun.tv,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mls-cdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mobike.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,moke.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,mubu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,myzaker.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,nim-lang-cn.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ntp.org,DIRECT\n'
+         '  - DOMAIN-SUFFIX,nvidia.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,oracle.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,pcbeta.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,plex.tv,DIRECT\n'
+         '  - DOMAIN-SUFFIX,qdaily.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,qidian.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,qyer.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,qyerstatic.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,raychase.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ronghub.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ruguoapp.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sankuai.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,scomper.me,DIRECT\n'
+         '  - DOMAIN-SUFFIX,seafile.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sm.ms,DIRECT\n'
+         '  - DOMAIN-SUFFIX,smzdm.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,snapdrop.net,DIRECT\n'
+         '  - DOMAIN-SUFFIX,snwx.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,s-reader.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,sspai.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,subhd.tv,DIRECT\n'
+         '  - DOMAIN-SUFFIX,takungpao.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,teamviewer.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tianyancha.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,tophub.today,DIRECT\n'
+         '  - DOMAIN-SUFFIX,udacity.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,uning.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,weather.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,weico.cc,DIRECT\n'
+         '  - DOMAIN-SUFFIX,weidian.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,xiachufang.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,xiaoka.tv,DIRECT\n'
+         '  - DOMAIN-SUFFIX,ximalaya.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,xinhuanet.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,xmcdn.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,yangkeduo.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,yizhibo.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,zhangzishi.cc,DIRECT\n'
+         '  - DOMAIN-SUFFIX,zhihu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,zhihuishu.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,zhimg.com,DIRECT\n'
+         '  - DOMAIN-SUFFIX,zhuihd.com,DIRECT\n'
+         '  - DOMAIN,download.jetbrains.com,DIRECT\n'
+         '  - DOMAIN,images-cn.ssl-images-amazon.com,DIRECT\n'
+         '  - GEOIP,CN,DIRECT\n'
+         '  - MATCH,Proxies\n'
+         '</pre>',
+ 'date': '2025-02-05',
+ 'ext': '.yaml',
+ 'name': 'clashmeta'}
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/twisted/internet/defer.py", line 1088, in _runCallbacks
+    current.result = callback(  # type: ignore[misc]
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 390, in f
+    return deferred_from_coro(coro_f(*coro_args, **coro_kwargs))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/node/node/NodeScrapy/pipelines.py", line 42, in process_item
+    data = yaml.safe_load(item["body"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/__init__.py", line 125, in safe_load
+    return load(stream, SafeLoader)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/__init__.py", line 81, in load
+    return loader.get_single_data()
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/constructor.py", line 49, in get_single_data
+    node = self.get_single_node()
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/composer.py", line 36, in get_single_node
+    document = self.compose_document()
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/composer.py", line 55, in compose_document
+    node = self.compose_node(None, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/composer.py", line 84, in compose_node
+    node = self.compose_mapping_node(anchor)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/composer.py", line 127, in compose_mapping_node
+    while not self.check_event(MappingEndEvent):
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/parser.py", line 98, in check_event
+    self.current_event = self.state()
+                         ^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/parser.py", line 428, in parse_block_mapping_key
+    if self.check_token(KeyToken):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/scanner.py", line 116, in check_token
+    self.fetch_more_tokens()
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/scanner.py", line 223, in fetch_more_tokens
+    return self.fetch_value()
+           ^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/yaml/scanner.py", line 577, in fetch_value
+    raise ScannerError(None, None,
+yaml.scanner.ScannerError: mapping values are not allowed here
+  in "<unicode string>", line 1, column 47:
+     ... rd-wrap: break-word; white-space: pre-wrap;">port: 7890
+                                         ^
+2025-02-05 08:15:58 [simple] INFO: Pipeline processing clashmeta.txt
+2025-02-05 08:15:58 [simple] INFO: Pipeline processed clashmeta.txt
+2025-02-05 08:15:58 [simple] INFO: Pipeline processing clashmeta.txt
+2025-02-05 08:15:58 [simple] INFO: Pipeline processed clashmeta.txt
+2025-02-05 08:15:58 [simple] INFO: Pipeline processing clashmeta.yaml
+2025-02-05 08:15:59 [simple] INFO: Pipeline processed clashmeta.yaml
+2025-02-05 08:15:59 [simple] INFO: Pipeline processing clashmeta.yaml
+2025-02-05 08:15:59 [simple] INFO: Pipeline processed clashmeta.yaml
+2025-02-05 08:15:59 [simple] INFO: Pipeline processing clashmeta.yaml
+2025-02-05 08:16:00 [simple] INFO: Pipeline processed clashmeta.yaml
+2025-02-05 08:16:00 [simple] INFO: Pipeline processing clashmeta.txt
+2025-02-05 08:16:00 [simple] INFO: Pipeline processed clashmeta.txt
+2025-02-05 08:16:00 [simple] INFO: Pipeline processing clashmeta.txt
+2025-02-05 08:16:00 [simple] INFO: Pipeline processed clashmeta.txt
+2025-02-05 08:16:00 [simple] INFO: Pipeline processing clashmeta.txt
+2025-02-05 08:16:00 [simple] INFO: Pipeline processed clashmeta.txt
+2025-02-05 08:16:00 [simple] INFO: Pipeline processing clashmeta.yaml
+2025-02-05 08:16:01 [simple] INFO: Pipeline processed clashmeta.yaml
+2025-02-05 08:16:01 [simple] INFO: Pipeline processing clashmeta.txt
+2025-02-05 08:16:01 [simple] INFO: Pipeline processed clashmeta.txt
+2025-02-05 08:16:01 [simple] INFO: Pipeline processing clashmeta.yaml
+2025-02-05 08:16:01 [simple] INFO: Pipeline processed clashmeta.yaml
+2025-02-05 08:16:01 [simple] INFO: Pipeline processing clashmeta.yaml
+2025-02-05 08:16:01 [simple] INFO: Pipeline processed clashmeta.yaml
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-2-5-free-ssr-node.htm on 2025-02-05
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-2-4-free-subscribe-node.htm on 2025-02-04
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-2-3-free-clash-subscribe.htm on 2025-02-03
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-2-2-free-ssr-subscribe.htm on 2025-02-02
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-2-1-free-clash.htm on 2025-02-01
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-31-free-v2ray-subscribe.htm on 2025-01-31
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-30-free-shadowrocket-node.htm on 2025-01-30
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-29-free-node-subscribe.htm on 2025-01-29
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-28-v2ray-node-daily-updates.htm on 2025-01-28
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-27-v2ray-node.htm on 2025-01-27
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-26-free-ssr-subscribe.htm on 2025-01-26
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-25-v2ray-windows.htm on 2025-01-25
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-24-free-v2ray.htm on 2025-01-24
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-23-v2ray-node-daily-updates.htm on 2025-01-23
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-21-free-shadowrocket-node.htm on 2025-01-21
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-20-free-ssr-subscribe.htm on 2025-01-20
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-19-free-clash.htm on 2025-01-19
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-18-free-subscribe-node.htm on 2025-01-18
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-17-free-clash.htm on 2025-01-17
+2025-02-05 08:16:01 [simple] INFO: nodev2ray found /free-node/2025-1-16-v2ray-node.htm on 2025-01-16
+2025-02-05 08:16:01 [simple] INFO: nodev2ray needs update, accessing https://nodev2ray.com/free-node/2025-2-5-free-ssr-node.htm
+2025-02-05 08:16:01 [simple] INFO: nodev2ray needs update, accessing https://nodev2ray.com/free-node/2025-2-4-free-subscribe-node.htm
+2025-02-05 08:16:01 [simple] INFO: nodev2ray needs update, accessing https://nodev2ray.com/free-node/2025-2-3-free-clash-subscribe.htm
+2025-02-05 08:16:02 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/20240708/ff27133addd15aff872376749b5dcb9d.webp" /, skipping
+2025-02-05 08:16:02 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/20240708/7fa073b3923df00f22aa45c3499bab9f.webp" /, skipping
+2025-02-05 08:16:02 [simple] WARNING: nodev2ray could not parse https://nodev2ray.com/uploads/20240708/fd42cd580e85a568595ae47d1acc6566.webp" /, skipping
+2025-02-05 08:16:03 [simple] INFO: Pipeline processing wenode.yaml
+2025-02-05 08:16:04 [simple] INFO: Pipeline processed wenode.yaml
+2025-02-05 08:16:04 [simple] INFO: Pipeline processing wenode.txt
+2025-02-05 08:16:04 [simple] INFO: Pipeline processed wenode.txt
+2025-02-05 08:16:04 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-02-05 08:16:04 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 14264,
+ 'downloader/request_count': 38,
+ 'downloader/request_method_count/GET': 38,
+ 'downloader/response_bytes': 833168,
+ 'downloader/response_count': 38,
+ 'downloader/response_status_count/200': 34,
  'downloader/response_status_count/301': 2,
- 'downloader/response_status_count/404': 1,
- 'elapsed_time_seconds': 1.498213,
+ 'downloader/response_status_count/404': 2,
+ 'dupefilter/filtered': 1,
+ 'elapsed_time_seconds': 7.237812,
  'finish_reason': 'finished',
- 'finish_time': datetime.datetime(2025, 2, 5, 2, 42, 30, 869092, tzinfo=datetime.timezone.utc),
- 'httpcompression/response_bytes': 382371,
- 'httpcompression/response_count': 12,
+ 'finish_time': datetime.datetime(2025, 2, 5, 8, 16, 4, 803245, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 2896320,
+ 'httpcompression/response_count': 32,
+ 'item_scraped_count': 16,
  'items_per_minute': None,
- 'log_count/INFO': 95,
- 'log_count/WARNING': 3,
- 'memusage/max': 483196928,
- 'memusage/startup': 483196928,
- 'request_depth_max': 1,
- 'response_received_count': 15,
+ 'log_count/ERROR': 1,
+ 'log_count/INFO': 145,
+ 'log_count/WARNING': 7,
+ 'memusage/max': 483151872,
+ 'memusage/startup': 483151872,
+ 'request_depth_max': 2,
+ 'response_received_count': 36,
  'responses_per_minute': None,
- 'robotstxt/request_count': 6,
- 'robotstxt/response_count': 6,
+ 'robotstxt/request_count': 7,
+ 'robotstxt/response_count': 7,
  'robotstxt/response_status_count/200': 5,
- 'robotstxt/response_status_count/404': 1,
- 'scheduler/dequeued': 9,
- 'scheduler/dequeued/memory': 9,
- 'scheduler/enqueued': 9,
- 'scheduler/enqueued/memory': 9,
- 'start_time': datetime.datetime(2025, 2, 5, 2, 42, 29, 370879, tzinfo=datetime.timezone.utc)}
-2025-02-05 02:42:30 [scrapy.core.engine] INFO: Spider closed (finished)
-2025-02-05 02:42:35 [scrapy.addons] INFO: Enabled addons:
+ 'robotstxt/response_status_count/404': 2,
+ 'scheduler/dequeued': 29,
+ 'scheduler/dequeued/memory': 29,
+ 'scheduler/enqueued': 29,
+ 'scheduler/enqueued/memory': 29,
+ 'start_time': datetime.datetime(2025, 2, 5, 8, 15, 57, 565433, tzinfo=datetime.timezone.utc)}
+2025-02-05 08:16:04 [scrapy.core.engine] INFO: Spider closed (finished)
+2025-02-05 08:16:13 [scrapy.addons] INFO: Enabled addons:
 []
-2025-02-05 02:42:35 [scrapy.extensions.telnet] INFO: Telnet Password: 8b5f86884618ef54
-2025-02-05 02:42:35 [scrapy.middleware] INFO: Enabled extensions:
+2025-02-05 08:16:13 [scrapy.extensions.telnet] INFO: Telnet Password: 3d70616547e9bfda
+2025-02-05 08:16:13 [scrapy.middleware] INFO: Enabled extensions:
 ['scrapy.extensions.corestats.CoreStats',
  'scrapy.extensions.telnet.TelnetConsole',
  'scrapy.extensions.memusage.MemoryUsage',
  'scrapy.extensions.logstats.LogStats']
-2025-02-05 02:42:35 [scrapy.crawler] INFO: Overridden settings:
+2025-02-05 08:16:13 [scrapy.crawler] INFO: Overridden settings:
 {'BOT_NAME': 'NodeScrapy',
  'FEED_EXPORT_ENCODING': 'utf-8',
  'LOG_FILE': 'scrapy.log',
@@ -162,7 +2315,7 @@
  'ROBOTSTXT_OBEY': True,
  'SPIDER_MODULES': ['NodeScrapy.spiders'],
  'TWISTED_REACTOR': 'twisted.internet.asyncioreactor.AsyncioSelectorReactor'}
-2025-02-05 02:42:35 [scrapy.middleware] INFO: Enabled downloader middlewares:
+2025-02-05 08:16:13 [scrapy.middleware] INFO: Enabled downloader middlewares:
 ['scrapy.downloadermiddlewares.offsite.OffsiteMiddleware',
  'scrapy.downloadermiddlewares.robotstxt.RobotsTxtMiddleware',
  'scrapy.downloadermiddlewares.httpauth.HttpAuthMiddleware',
@@ -177,89 +2330,53 @@
  'scrapy.downloadermiddlewares.cookies.CookiesMiddleware',
  'scrapy.downloadermiddlewares.httpproxy.HttpProxyMiddleware',
  'scrapy.downloadermiddlewares.stats.DownloaderStats']
-2025-02-05 02:42:35 [scrapy.middleware] INFO: Enabled spider middlewares:
+2025-02-05 08:16:13 [scrapy.middleware] INFO: Enabled spider middlewares:
 ['scrapy.spidermiddlewares.httperror.HttpErrorMiddleware',
  'scrapy.spidermiddlewares.referer.RefererMiddleware',
  'scrapy.spidermiddlewares.urllength.UrlLengthMiddleware',
  'scrapy.spidermiddlewares.depth.DepthMiddleware']
-2025-02-05 02:42:35 [scrapy.middleware] INFO: Enabled item pipelines:
+2025-02-05 08:16:13 [scrapy.middleware] INFO: Enabled item pipelines:
 ['NodeScrapy.pipelines.Pipeline']
-2025-02-05 02:42:35 [scrapy.core.engine] INFO: Spider opened
-2025-02-05 02:42:35 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
-2025-02-05 02:42:35 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 start
-2025-02-05 02:42:35 [decrypt] INFO: blues start
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502052481080p4kv2rayclashsing.html on 2025-02-05
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502042351080p4kv2rayclashsing.html on 2025-02-04
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502031991080p4kv2rayclashsing.html on 2025-02-03
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502022121080p4kv2rayclashsing.html on 2025-02-02
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202502012871080p4kv2rayclashsing.html on 2025-02-01
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501312591080p4kv2rayclashsing.html on 2025-01-31
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501302961080p4kv2rayclashsing.html on 2025-01-30
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501292901080p4kv2rayclashsing.html on 2025-01-29
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501282751080p4kv2rayclashsing.html on 2025-01-28
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502022121080p4kv2rayclashsing.html on 2025-02-02
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202502012871080p4kv2rayclashsing.html on 2025-02-01
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501302961080p4kv2rayclashsing.html on 2025-01-30
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502052481080p4kv2rayclashsing.html on 2025-02-05
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/02/202502052481080p4kv2rayclashsing.html
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/02/202502042351080p4kv2rayclashsing.html
-2025-02-05 02:42:35 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/02/2025bom0.html
-2025-02-05 02:42:36 [decrypt] INFO: yudou66 found yt_url: https://youtu.be/7ZvdShQjeeY
-2025-02-05 02:42:37 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/02/202502052481080p4kv2rayclashsing.html?m=1> (referer: https://www.yudou66.com/?m=1)
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
-    yield next(it)
-          ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
-    return next(self.data)
-           ^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
-    return (self._set_referer(r, response) for r in result)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
-    return (r for r in result if self._filter(r, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
-    return (r for r in result if self._filter(r, response, spider))
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
-    yield from iterable
-  File "/home/runner/work/node/node/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
-    pwdfinder = PwdFinder(name, self.logger, yt_url)
-                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/node/node/utils/PwdFinder.py", line 65, in __init__
-    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
-                                                                 ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 756, in title
-    self._author = self.vid_info.get("videoDetails", {}).get(
-                   ^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 490, in vid_info
-    innertube_response = call_innertube()
-                         ^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 483, in call_innertube
-    response = innertube.player(self.video_id)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 877, in player
-    return self._call_api(endpoint, query, self.base_data)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 771, in _call_api
-    self.fetch_bearer_token()
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
-    self.oauth_verifier(verification_url, user_code)
-  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
-    input('Press enter when you have completed this step.')
-EOFError: EOF when reading a line
-2025-02-05 02:42:37 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/02/2025bom0.html?m=1> (referer: https://www.yudou66.com/?m=1)
+2025-02-05 08:16:13 [scrapy.core.engine] INFO: Spider opened
+2025-02-05 08:16:13 [scrapy.extensions.logstats] INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+2025-02-05 08:16:13 [scrapy.extensions.telnet] INFO: Telnet console listening on 127.0.0.1:6023
+2025-02-05 08:16:13 [decrypt] INFO: yudou66 start
+2025-02-05 08:16:13 [decrypt] INFO: blues start
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502052481080p4kv2rayclashsing.html on 2025-02-05
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502042351080p4kv2rayclashsing.html on 2025-02-04
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502031991080p4kv2rayclashsing.html on 2025-02-03
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502022121080p4kv2rayclashsing.html on 2025-02-02
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202502012871080p4kv2rayclashsing.html on 2025-02-01
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501312591080p4kv2rayclashsing.html on 2025-01-31
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501302961080p4kv2rayclashsing.html on 2025-01-30
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501292901080p4kv2rayclashsing.html on 2025-01-29
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501282751080p4kv2rayclashsing.html on 2025-01-28
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502022121080p4kv2rayclashsing.html on 2025-02-02
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202502012871080p4kv2rayclashsing.html on 2025-02-01
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/01/202501302961080p4kv2rayclashsing.html on 2025-01-30
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 found https://www.yudou66.com/2025/02/202502052481080p4kv2rayclashsing.html on 2025-02-05
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/02/202502052481080p4kv2rayclashsing.html
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/02/202502042351080p4kv2rayclashsing.html
+2025-02-05 08:16:14 [decrypt] INFO: yudou66 needs update, accessing https://www.yudou66.com/2025/02/2025bom0.html
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025254kchatgpt4k8kclashv2ray.html on 2025-02-05
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025244kchatgpt4k8kclashv2ray.html on 2025-02-04
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025234kchatgpt4k8kclashv2ray.html on 2025-02-03
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025224kchatgpt4k8kclashv2ray.html on 2025-02-02
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025214kchatgpt4k8kclashv2ray.html on 2025-02-01
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251314kchatgpt4k8kclashv2ray.html on 2025-01-31
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251304kchatgpt4k8kclashv2ray.html on 2025-01-30
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251294kchatgpt4k8kclashv2ray.html on 2025-01-29
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251284kchatgpt4k8kclashv2ray.html on 2025-01-28
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251274kchatgpt4k8kclashv2ray.html on 2025-01-27
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025234kchatgpt4k8kclashv2ray.html on 2025-02-03
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025244kchatgpt4k8kclashv2ray.html on 2025-02-04
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025214kchatgpt4k8kclashv2ray.html on 2025-02-01
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251304kchatgpt4k8kclashv2ray.html on 2025-01-30
+2025-02-05 08:16:14 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251314kchatgpt4k8kclashv2ray.html on 2025-01-31
+2025-02-05 08:16:14 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/02/2025254kchatgpt4k8kclashv2ray.html
+2025-02-05 08:16:14 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/02/2025244kchatgpt4k8kclashv2ray.html
+2025-02-05 08:16:14 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/02/2025234kchatgpt4k8kclashv2ray.html
+2025-02-05 08:16:14 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/02/2025bom0.html?m=1> (referer: https://www.yudou66.com/?m=1)
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
     yield next(it)
@@ -291,8 +2408,8 @@ Traceback (most recent call last):
     yt_url = [url for url in response.css("a::attr(href)").getall()
              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 IndexError: list index out of range
-2025-02-05 02:42:37 [decrypt] INFO: yudou66 found yt_url: https://youtu.be/Z8lGEq31KrU
-2025-02-05 02:42:37 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/02/202502042351080p4kv2rayclashsing.html?m=1> (referer: https://www.yudou66.com/?m=1)
+2025-02-05 08:16:15 [decrypt] INFO: yudou66 found yt_url: https://youtu.be/7ZvdShQjeeY
+2025-02-05 08:16:16 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/02/202502052481080p4kv2rayclashsing.html?m=1> (referer: https://www.yudou66.com/?m=1)
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
     yield next(it)
@@ -345,26 +2462,8 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
     input('Press enter when you have completed this step.')
 EOFError: EOF when reading a line
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025254kchatgpt4k8kclashv2ray.html on 2025-02-05
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025244kchatgpt4k8kclashv2ray.html on 2025-02-04
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025234kchatgpt4k8kclashv2ray.html on 2025-02-03
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025224kchatgpt4k8kclashv2ray.html on 2025-02-02
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025214kchatgpt4k8kclashv2ray.html on 2025-02-01
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251314kchatgpt4k8kclashv2ray.html on 2025-01-31
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251304kchatgpt4k8kclashv2ray.html on 2025-01-30
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251294kchatgpt4k8kclashv2ray.html on 2025-01-29
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251284kchatgpt4k8kclashv2ray.html on 2025-01-28
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251274kchatgpt4k8kclashv2ray.html on 2025-01-27
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025234kchatgpt4k8kclashv2ray.html on 2025-02-03
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/02/2025244kchatgpt4k8kclashv2ray.html on 2025-02-04
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/2025214kchatgpt4k8kclashv2ray.html on 2025-02-01
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251304kchatgpt4k8kclashv2ray.html on 2025-01-30
-2025-02-05 02:42:37 [decrypt] INFO: blues found https://blues2022.blogspot.com/2025/01/20251314kchatgpt4k8kclashv2ray.html on 2025-01-31
-2025-02-05 02:42:37 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/02/2025254kchatgpt4k8kclashv2ray.html
-2025-02-05 02:42:37 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/02/2025244kchatgpt4k8kclashv2ray.html
-2025-02-05 02:42:37 [decrypt] INFO: blues needs update, accessing https://blues2022.blogspot.com/2025/02/2025234kchatgpt4k8kclashv2ray.html
-2025-02-05 02:42:38 [decrypt] INFO: blues found yt_url: https://youtu.be/xCrpP70CdS8
-2025-02-05 02:42:39 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/02/2025254kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
+2025-02-05 08:16:16 [decrypt] INFO: yudou66 found yt_url: https://youtu.be/Z8lGEq31KrU
+2025-02-05 08:16:17 [scrapy.core.scraper] ERROR: Spider error processing <GET https://www.yudou66.com/2025/02/202502042351080p4kv2rayclashsing.html?m=1> (referer: https://www.yudou66.com/?m=1)
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
     yield next(it)
@@ -417,8 +2516,8 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
     input('Press enter when you have completed this step.')
 EOFError: EOF when reading a line
-2025-02-05 02:42:39 [decrypt] INFO: blues found yt_url: https://youtu.be/_TIq4xMC5es
-2025-02-05 02:42:40 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/02/2025244kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
+2025-02-05 08:16:17 [decrypt] INFO: blues found yt_url: https://youtu.be/IYcnWhm3BqI
+2025-02-05 08:16:18 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/02/2025234kchatgpt4k8kclashv2ray.html> (referer: https://blues2022.blogspot.com/?m=1)
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
     yield next(it)
@@ -471,8 +2570,8 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
     input('Press enter when you have completed this step.')
 EOFError: EOF when reading a line
-2025-02-05 02:42:40 [decrypt] INFO: blues found yt_url: https://youtu.be/IYcnWhm3BqI
-2025-02-05 02:42:41 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/02/2025234kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
+2025-02-05 08:16:18 [decrypt] INFO: blues found yt_url: https://youtu.be/_TIq4xMC5es
+2025-02-05 08:16:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/02/2025244kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
 Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
     yield next(it)
@@ -525,36 +2624,90 @@ Traceback (most recent call last):
   File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
     input('Press enter when you have completed this step.')
 EOFError: EOF when reading a line
-2025-02-05 02:42:41 [scrapy.core.engine] INFO: Closing spider (finished)
-2025-02-05 02:42:41 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
-{'downloader/request_bytes': 6960,
+2025-02-05 08:16:20 [decrypt] INFO: blues found yt_url: https://youtu.be/xCrpP70CdS8
+2025-02-05 08:16:20 [scrapy.core.scraper] ERROR: Spider error processing <GET https://blues2022.blogspot.com/2025/02/2025254kchatgpt4k8kclashv2ray.html?m=1> (referer: https://blues2022.blogspot.com/?m=1)
+Traceback (most recent call last):
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/defer.py", line 327, in iter_errback
+    yield next(it)
+          ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/utils/python.py", line 368, in __next__
+    return next(self.data)
+           ^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/referer.py", line 379, in <genexpr>
+    return (self._set_referer(r, response) for r in result)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/urllength.py", line 57, in <genexpr>
+    return (r for r in result if self._filter(r, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/spidermiddlewares/depth.py", line 54, in <genexpr>
+    return (r for r in result if self._filter(r, response, spider))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/scrapy/core/spidermw.py", line 106, in process_sync
+    yield from iterable
+  File "/home/runner/work/node/node/NodeScrapy/spiders/DecryptSpider.py", line 76, in parse_blog
+    pwdfinder = PwdFinder(name, self.logger, yt_url)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/node/node/utils/PwdFinder.py", line 65, in __init__
+    match = re.search(r"(?:\d{4}[-年])?(\d{1,2})[-月](\d{1,2})", yt.title)
+                                                                 ^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 756, in title
+    self._author = self.vid_info.get("videoDetails", {}).get(
+                   ^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 490, in vid_info
+    innertube_response = call_innertube()
+                         ^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/__main__.py", line 483, in call_innertube
+    response = innertube.player(self.video_id)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 877, in player
+    return self._call_api(endpoint, query, self.base_data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 771, in _call_api
+    self.fetch_bearer_token()
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 687, in fetch_bearer_token
+    self.oauth_verifier(verification_url, user_code)
+  File "/opt/hostedtoolcache/Python/3.11.11/x64/lib/python3.11/site-packages/pytubefix/innertube.py", line 521, in _default_oauth_verifier
+    input('Press enter when you have completed this step.')
+EOFError: EOF when reading a line
+2025-02-05 08:16:20 [scrapy.core.engine] INFO: Closing spider (finished)
+2025-02-05 08:16:20 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 6859,
  'downloader/request_count': 19,
  'downloader/request_method_count/GET': 19,
- 'downloader/response_bytes': 326319,
+ 'downloader/response_bytes': 326537,
  'downloader/response_count': 19,
  'downloader/response_status_count/200': 10,
  'downloader/response_status_count/302': 9,
- 'elapsed_time_seconds': 6.856634,
+ 'elapsed_time_seconds': 7.22015,
  'finish_reason': 'finished',
- 'finish_time': datetime.datetime(2025, 2, 5, 2, 42, 41, 980161, tzinfo=datetime.timezone.utc),
- 'httpcompression/response_bytes': 1640304,
+ 'finish_time': datetime.datetime(2025, 2, 5, 8, 16, 20, 881842, tzinfo=datetime.timezone.utc),
+ 'httpcompression/response_bytes': 1640820,
  'httpcompression/response_count': 10,
  'items_per_minute': None,
  'log_count/ERROR': 6,
  'log_count/INFO': 51,
- 'memusage/max': 479358976,
- 'memusage/startup': 479358976,
+ 'memusage/max': 479059968,
+ 'memusage/startup': 479059968,
  'request_depth_max': 1,
  'response_received_count': 10,
  'responses_per_minute': None,
  'robotstxt/request_count': 2,
  'robotstxt/response_count': 2,
  'robotstxt/response_status_count/200': 2,
- 'scheduler/dequeued': 16,
- 'scheduler/dequeued/memory': 16,
- 'scheduler/enqueued': 16,
- 'scheduler/enqueued/memory': 16,
+ 'scheduler/dequeued': 15,
+ 'scheduler/dequeued/memory': 15,
+ 'scheduler/enqueued': 15,
+ 'scheduler/enqueued/memory': 15,
  'spider_exceptions/EOFError': 5,
  'spider_exceptions/IndexError': 1,
- 'start_time': datetime.datetime(2025, 2, 5, 2, 42, 35, 123527, tzinfo=datetime.timezone.utc)}
-2025-02-05 02:42:41 [scrapy.core.engine] INFO: Spider closed (finished)
+ 'start_time': datetime.datetime(2025, 2, 5, 8, 16, 13, 661692, tzinfo=datetime.timezone.utc)}
+2025-02-05 08:16:20 [scrapy.core.engine] INFO: Spider closed (finished)
